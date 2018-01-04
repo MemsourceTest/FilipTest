@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns:m="http://www.memsource.com/mxlf/2.0" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2" m:version="2.3" m:level="1">
+<file original="JobID_6_JobItemID_26_en_fr.xliff" source-language="en" target-language="fr" datatype="x-undefined" m:task-id="YOHvJigvqFgLI1MI0_dc1">
+<body>
+<group id="0">
+<context-group>
+<context context-type="x-key">26][title][0][value</context>
+</context-group>
+<trans-unit id="YOHvJigvqFgLI1MI0_dc1:0" m:para-id="0" xml:space="preserve" m:trans-origin="null" m:score="0" m:gross-score="0" m:confirmed="0" m:locked="false" m:level-edited="false" m:created-by="" m:created-at="0" m:modified-by="" m:modified-at="0">
+<source>Paragraph</source>
+<target></target>
+<alt-trans origin="machine-trans">
+<target></target>
+</alt-trans>
+<alt-trans origin="memsource-tm">
+<target></target>
+</alt-trans>
+<m:tunit-metadata/>
+<m:tunit-target-metadata/>
+<m:editing-stats>
+<m:thinking-time>0</m:thinking-time>
+<m:editing-time>0</m:editing-time>
+</m:editing-stats>
+</trans-unit>
+</group>
+<group id="1">
+<context-group>
+<context context-type="x-key">26][body][0][value</context>
+<context context-type="x-key-note">Note: Text (annotates: general)</context>
+</context-group>
+<trans-unit id="YOHvJigvqFgLI1MI0_dc1:1" m:para-id="1" xml:space="preserve" m:trans-origin="null" m:score="0" m:gross-score="0" m:confirmed="0" m:locked="false" m:level-edited="false" m:created-by="" m:created-at="0" m:modified-by="" m:modified-at="0">
+<source>&lt;p&gt;This is the body.&lt;/p&gt;</source>
+<target></target>
+<alt-trans origin="machine-trans">
+<target></target>
+</alt-trans>
+<alt-trans origin="memsource-tm">
+<target></target>
+</alt-trans>
+<m:tunit-metadata/>
+<m:tunit-target-metadata/>
+<m:editing-stats>
+<m:thinking-time>0</m:thinking-time>
+<m:editing-time>0</m:editing-time>
+</m:editing-stats>
+</trans-unit>
+</group>
+</body>
+</file>
+<m:extra>
+<m:users/>
+</m:extra>
+</xliff>

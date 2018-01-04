@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns:m="http://www.memsource.com/mxlf/2.0" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2" m:version="2.3" m:level="1">
+<file original="JobID_31_JobItemID_68_en_fr.xliff" source-language="en" target-language="fr" datatype="x-undefined" m:task-id="X3NNqjycsA12x4OI0_dc1">
+<body>
+<group id="0">
+<context-group>
+<context context-type="x-key">68][title][0][value</context>
+</context-group>
+<trans-unit id="X3NNqjycsA12x4OI0_dc1:0" m:para-id="0" xml:space="preserve" m:trans-origin="null" m:score="0" m:gross-score="0" m:confirmed="1" m:locked="false" m:level-edited="true" m:created-by="3" m:created-at="1502647673652" m:modified-by="3" m:modified-at="1502647674952">
+<source>First node</source>
+<target>Bla</target>
+<alt-trans origin="machine-trans">
+<target></target>
+</alt-trans>
+<alt-trans origin="memsource-tm">
+<target></target>
+</alt-trans>
+<m:tunit-metadata/>
+<m:tunit-target-metadata/>
+<m:editing-stats>
+<m:thinking-time>5117</m:thinking-time>
+<m:editing-time>6486</m:editing-time>
+</m:editing-stats>
+</trans-unit>
+</group>
+<group id="1">
+<context-group>
+<context context-type="x-key">68][body][0][value</context>
+</context-group>
+<trans-unit id="X3NNqjycsA12x4OI0_dc1:1" m:para-id="1" xml:space="preserve" m:trans-origin="null" m:score="0" m:gross-score="0" m:confirmed="1" m:locked="false" m:level-edited="true" m:created-by="3" m:created-at="1502647677227" m:modified-by="3" m:modified-at="1502647679460">
+<source>This text can be translated with TMGMT.</source>
+<target>Ble</target>
+<alt-trans origin="machine-trans">
+<target></target>
+</alt-trans>
+<alt-trans origin="memsource-tm">
+<target></target>
+</alt-trans>
+<m:tunit-metadata/>
+<m:tunit-target-metadata/>
+<m:editing-stats>
+<m:thinking-time>2226</m:thinking-time>
+<m:editing-time>4511</m:editing-time>
+</m:editing-stats>
+</trans-unit>
+</group>
+<group id="2">
+<context-group>
+<context context-type="x-key">68][body][0][value</context>
+</context-group>
+<trans-unit id="X3NNqjycsA12x4OI0_dc1:2" m:para-id="1" xml:space="preserve" m:trans-origin="null" m:score="0" m:gross-score="0" m:confirmed="1" m:locked="false" m:level-edited="true" m:created-by="3" m:created-at="1502647680527" m:modified-by="3" m:modified-at="1502647681902">
+<source>Use the &quot;translate&quot; Tab and choose &quot;Request Translation&quot; to get started.</source>
+<target>Blu</target>
+<alt-trans origin="machine-trans">
+<target></target>
+</alt-trans>
+<alt-trans origin="memsource-tm">
+<target></target>
+</alt-trans>
+<m:tunit-metadata/>
+<m:tunit-target-metadata/>
+<m:editing-stats>
+<m:thinking-time>986</m:thinking-time>
+<m:editing-time>2438</m:editing-time>
+</m:editing-stats>
+</trans-unit>
+</group>
+</body>
+</file>
+<m:extra>
+<m:users>
+<m:user id="3" username="admin" fullname="Filip Rachunek"/>
+</m:users>
+</m:extra>
+</xliff>

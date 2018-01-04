@@ -1,0 +1,1299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns:m="http://www.memsource.com/mxlf/2.0" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2" m:version="2.3" m:level="1">
+<file original="JobID_13_JobItemID_49_en_fr.xliff" source-language="en" target-language="fr" datatype="x-undefined" m:task-id="FapH6ODcsAhLEgom_dc1">
+<body>
+<group id="0">
+<context-group>
+<context context-type="x-key">49][title][0][value</context>
+</context-group>
+<trans-unit id="FapH6ODcsAhLEgom_dc1:0" m:para-id="0" xml:space="preserve" m:trans-origin="null" m:score="0" m:gross-score="0" m:confirmed="1" m:locked="false" m:level-edited="true" m:created-by="3" m:created-at="1501833858401" m:modified-by="3" m:modified-at="1501833943352">
+<source>TMGMT Demo</source>
+<target>T$M$G$M$T$</target>
+<alt-trans origin="machine-trans">
+<target></target>
+</alt-trans>
+<alt-trans origin="memsource-tm">
+<target></target>
+</alt-trans>
+<m:tunit-metadata/>
+<m:tunit-target-metadata/>
+<m:editing-stats>
+<m:thinking-time>3494</m:thinking-time>
+<m:editing-time>3494</m:editing-time>
+</m:editing-stats>
+</trans-unit>
+</group>
+<group id="1">
+<context-group>
+<context context-type="x-key">49][body][0][value</context>
+</context-group>
+<trans-unit id="FapH6ODcsAhLEgom_dc1:1" m:para-id="1" xml:space="preserve" m:trans-origin="null" m:score="0" m:gross-score="0" m:confirmed="1" m:locked="false" m:level-edited="true" m:created-by="3" m:created-at="1501833858405" m:modified-by="3" m:modified-at="1501833943953">
+<source>Welcome to the Translation Management Tool Demo module!</source>
+<target>W$e$l$c$o$m$e$ t$o$ t$h$e$ T$r$a$n$s$l$a$t$i$o$n$ M$a$n</target>
+<alt-trans origin="machine-trans">
+<target></target>
+</alt-trans>
+<alt-trans origin="memsource-tm">
+<target></target>
+</alt-trans>
+<m:tunit-metadata/>
+<m:tunit-target-metadata/>
+<m:editing-stats>
+<m:thinking-time>618</m:thinking-time>
+<m:editing-time>618</m:editing-time>
+</m:editing-stats>
+</trans-unit>
+</group>
+<group id="2">
+<context-group>
+<context context-type="x-key">49][body][0][value</context>
+</context-group>
+<trans-unit id="FapH6ODcsAhLEgom_dc1:2" m:para-id="2" xml:space="preserve" m:trans-origin="null" m:score="0" m:gross-score="0" m:confirmed="1" m:locked="false" m:level-edited="true" m:created-by="3" m:created-at="1501833858407" m:modified-by="3" m:modified-at="1501833944506">
+<source>The Translation Management Tool (TMGMT) demo module provides the configuration needed for translating predefined content types - {1&gt;translatable nodes&lt;1}.</source>
+<target>T$h$e$ T$r$a$n$s$l$a$t$i$o$n$ M$a$n$a$g$e$m$e$n$t$ T$o$o$l$ (T$M$G$M$T$) d$e$m$o$ m$o$d$u$l$e$ p$r$o$v$i$d$e$s$ t$h$e$ c$o$n$f$i$g$u$r$a$t$i$o$n$ n${1&gt;&lt;1}</target>
+<alt-trans origin="machine-trans">
+<target></target>
+</alt-trans>
+<alt-trans origin="memsource-tm">
+<target></target>
+</alt-trans>
+<m:tunit-metadata>
+<m:mark id="1">
+<m:type>a</m:type>
+<m:content>&lt;a href=&quot;/drupal-8.2.1/admin/config/regional/content-language&quot;&gt;</m:content>
+</m:mark>
+</m:tunit-metadata>
+<m:tunit-target-metadata>
+<m:mark id="1">
+<m:type>a</m:type>
+<m:content>&lt;a href=&quot;/drupal-8.2.1/admin/config/regional/content-language&quot;&gt;</m:content>
+</m:mark>
+</m:tunit-target-metadata>
+<m:editing-stats>
+<m:thinking-time>564</m:thinking-time>
+<m:editing-time>564</m:editing-time>
+</m:editing-stats>
+</trans-unit>
+</group>
+<group id="3">
+<context-group>
+<context context-type="x-key">49][body][0][value</context>
+</context-group>
+<trans-unit id="FapH6ODcsAhLEgom_dc1:3" m:para-id="3" xml:space="preserve" m:trans-origin="null" m:score="0" m:gross-score="0" m:confirmed="1" m:locked="false" m:level-edited="true" m:created-by="3" m:created-at="1501833858409" m:modified-by="3" m:modified-at="1501833945711">
+<source>It enables three {1&gt;languages&lt;1}.</source>
+<target>I$t$ e$n$a$b$l$e$s$ t$h$r$e{1&gt;&lt;1}</target>
+<alt-trans origin="machine-trans">
+<target></target>
+</alt-trans>
+<alt-trans origin="memsource-tm">
+<target></target>
+</alt-trans>
+<m:tunit-metadata>
+<m:mark id="1">
+<m:type>a</m:type>
+<m:content>&lt;a href=&quot;/drupal-8.2.1/admin/config/regional/language&quot;&gt;</m:content>
+</m:mark>
+</m:tunit-metadata>
+<m:tunit-target-metadata>
+<m:mark id="1">
+<m:type>a</m:type>
+<m:content>&lt;a href=&quot;/drupal-8.2.1/admin/config/regional/language&quot;&gt;</m:content>
+</m:mark>
+</m:tunit-target-metadata>
+<m:editing-stats>
+<m:thinking-time>1175</m:thinking-time>
+<m:editing-time>1175</m:editing-time>
+</m:editing-stats>
+</trans-unit>
+</group>
+<group id="4">
+<context-group>
+<context context-type="x-key">49][body][0][value</context>
+</context-group>
+<trans-unit id="FapH6ODcsAhLEgom_dc1:4" m:para-id="3" xml:space="preserve" m:trans-origin="null" m:score="0" m:gross-score="0" m:confirmed="1" m:locked="false" m:level-edited="true" m:created-by="3" m:created-at="1501833858410" m:modified-by="3" m:modified-at="1501833946481">
+<source>Besides English, it supports German and French.</source>
+<target>B$e$s$i$d$e$s$ E$n$g$l$i$s$h$, i$t$ s$u$p$p$o$r</target>
+<alt-trans origin="machine-trans">
+<target></target>
+</alt-trans>
+<alt-trans origin="memsource-tm">
+<target></target>
+</alt-trans>
+<m:tunit-metadata/>
+<m:tunit-target-metadata/>
+<m:editing-stats>
+<m:thinking-time>771</m:thinking-time>
+<m:editing-time>771</m:editing-time>
+</m:editing-stats>
+</trans-unit>
+</group>
+<group id="5">
+<context-group>
+<context context-type="x-key">49][body][0][value</context>
+</context-group>
+<trans-unit id="FapH6ODcsAhLEgom_dc1:5" m:para-id="4" xml:space="preserve" m:trans-origin="null" m:score="0" m:gross-score="0" m:confirmed="1" m:locked="false" m:level-edited="true" m:created-by="3" m:created-at="1501833858412" m:modified-by="3" m:modified-at="1501833947081">
+<source>Content translation is enabled by default.</source>
+<target>C$o$n$t$e$n$t$ t$r$a$n$s$l$a$t$i$o$n$ i$s$</target>
+<alt-trans origin="machine-trans">
+<target></target>
+</alt-trans>
+<alt-trans origin="memsource-tm">
+<target></target>
+</alt-trans>
+<m:tunit-metadata/>
+<m:tunit-target-metadata/>
+<m:editing-stats>
+<m:thinking-time>602</m:thinking-time>
+<m:editing-time>602</m:editing-time>
+</m:editing-stats>
+</trans-unit>
+</group>
+<group id="6">
+<context-group>
+<context context-type="x-key">49][body][0][value</context>
+</context-group>
+<trans-unit id="FapH6ODcsAhLEgom_dc1:6" m:para-id="4" xml:space="preserve" m:trans-origin="null" m:score="0" m:gross-score="0" m:confirmed="1" m:locked="false" m:level-edited="true" m:created-by="3" m:created-at="1501833858414" m:modified-by="3" m:modified-at="1501833947658">
+<source>This allows users to translate the content on their own.</source>
+<target>T$h$i$s$ a$l$l$o$w$s$ u$s$e$r$s$ t$o$ t$r$a$n$s$l$a$t$e$</target>
+<alt-trans origin="machine-trans">
+<target></target>
+</alt-trans>
+<alt-trans origin="memsource-tm">
+<target></target>
+</alt-trans>
+<m:tunit-metadata/>
+<m:tunit-target-metadata/>
+<m:editing-stats>
+<m:thinking-time>578</m:thinking-time>
+<m:editing-time>578</m:editing-time>
+</m:editing-stats>
+</trans-unit>
+</group>
+<group id="7">
+<context-group>
+<context context-type="x-key">49][body][0][value</context>
+</context-group>
+<trans-unit id="FapH6ODcsAhLEgom_dc1:7" m:para-id="4" xml:space="preserve" m:trans-origin="null" m:score="0" m:gross-score="0" m:confirmed="1" m:locked="false" m:level-edited="true" m:created-by="3" m:created-at="1501833858415" m:modified-by="3" m:modified-at="1501833948238">
+<source>Also, Export / Import File translator enables exporting source data into a file and import the translated in return.</source>
+<target>A$l$s$o$, E$x$p$o$r$t$ / I$m$p$o$r$t$ F$i$l$e$ t$r$a$n$s$l$a$t$o$r$ e$n$a$b$l$e$s$ e$x$p$o$r$t$i$n$g$ s$o$u$r$c$e$ d</target>
+<alt-trans origin="machine-trans">
+<target></target>
+</alt-trans>
+<alt-trans origin="memsource-tm">
+<target></target>
+</alt-trans>
+<m:tunit-metadata/>
+<m:tunit-target-metadata/>
+<m:editing-stats>
+<m:thinking-time>598</m:thinking-time>
+<m:editing-time>598</m:editing-time>
+</m:editing-stats>
+</trans-unit>
+</group>
+<group id="8">
+<context-group>
+<context context-type="x-key">49][body][0][value</context>
+</context-group>
+<trans-unit id="FapH6ODcsAhLEgom_dc1:8" m:para-id="5" xml:space="preserve" m:trans-origin="null" m:score="0" m:gross-score="0" m:confirmed="1" m:locked="false" m:level-edited="true" m:created-by="3" m:created-at="1501833858416" m:modified-by="3" m:modified-at="1501833948824">
+<source>{1}To get started with the translation, two {2&gt;translatable nodes&lt;2} are created.</source>
+<target>{1}T$o$ g$e$t$ s$t$a$r$t$e$d$ w$i$t$h$ t$h$e$ t$r$a$n$s$l$a$t$i$o$n$, t$w$o{2&gt;&lt;2}</target>
+<alt-trans origin="machine-trans">
+<target></target>
+</alt-trans>
+<alt-trans origin="memsource-tm">
+<target></target>
+</alt-trans>
+<m:tunit-metadata>
+<m:mark id="1">
+<m:type>span</m:type>
+<m:content>&lt;span&gt;</m:content>
+</m:mark>
+<m:mark id="2">
+<m:type>a</m:type>
+<m:content>&lt;a href=&quot;/drupal-8.2.1/admin/content&quot;&gt;</m:content>
+</m:mark>
+</m:tunit-metadata>
+<m:tunit-target-metadata>
+<m:mark id="1">
+<m:type>span</m:type>
+<m:content>&lt;span&gt;</m:content>
+</m:mark>
+<m:mark id="2">
+<m:type>a</m:type>
+<m:content>&lt;a href=&quot;/drupal-8.2.1/admin/content&quot;&gt;</m:content>
+</m:mark>
+</m:tunit-target-metadata>
+<m:editing-stats>
+<m:thinking-time>572</m:thinking-time>
+<m:editing-time>572</m:editing-time>
+</m:editing-stats>
+</trans-unit>
+</group>
+<group id="9">
+<context-group>
+<context context-type="x-key">49][body][0][value</context>
+</context-group>
+<trans-unit id="FapH6ODcsAhLEgom_dc1:9" m:para-id="5" xml:space="preserve" m:trans-origin="null" m:score="0" m:gross-score="0" m:confirmed="1" m:locked="false" m:level-edited="true" m:created-by="3" m:created-at="1501833858418" m:modified-by="3" m:modified-at="1501833949343">
+<source>The steps for translation are the following:{3}</source>
+<target>T$h$e$ s$t$e$p$s$ f$o$r$ t$r$a$n$s$l$a$t$i$o{3}</target>
+<alt-trans origin="machine-trans">
+<target></target>
+</alt-trans>
+<alt-trans origin="memsource-tm">
+<target></target>
+</alt-trans>
+<m:tunit-metadata>
+<m:mark id="3">
+<m:type>span</m:type>
+<m:content>&lt;/span&gt;</m:content>
+</m:mark>
+</m:tunit-metadata>
+<m:tunit-target-metadata>
+<m:mark id="3">
+<m:type>span</m:type>
+<m:content>&lt;/span&gt;</m:content>
+</m:mark>
+</m:tunit-target-metadata>
+<m:editing-stats>
+<m:thinking-time>516</m:thinking-time>
+<m:editing-time>516</m:editing-time>
+</m:editing-stats>
+</trans-unit>
+</group>
+<group id="10">
+<context-group>
+<context context-type="x-key">49][body][0][value</context>
+</context-group>
+<trans-unit id="FapH6ODcsAhLEgom_dc1:10" m:para-id="6" xml:space="preserve" m:trans-origin="null" m:score="0" m:gross-score="0" m:confirmed="1" m:locked="false" m:level-edited="true" m:created-by="3" m:created-at="1501833858419" m:modified-by="3" m:modified-at="1501833949867">
+<source>On the node detail view use the {1&gt;&quot;translate&quot; Tab&lt;1}, choose a language and click &quot;Request Translation&quot; to get started.</source>
+<target>O$n$ t$h$e$ n$o$d$e$ d$e$t$a$i$l$ v$i$e$w$ u$s$e$ t$h$e$ {1&gt;&quot;t$r$a$n$s$l$a$t$e$&quot; T$a$b$&lt;1}, c$h$o$o$s$e$ a$ l$a$n$g$u$a$</target>
+<alt-trans origin="machine-trans">
+<target></target>
+</alt-trans>
+<alt-trans origin="memsource-tm">
+<target></target>
+</alt-trans>
+<m:tunit-metadata>
+<m:mark id="1">
+<m:type>a</m:type>
+<m:content>&lt;a href=&quot;/drupal-8.2.1/node/3/translations&quot;&gt;</m:content>
+</m:mark>
+</m:tunit-metadata>
+<m:tunit-target-metadata>
+<m:mark id="1">
+<m:type>a</m:type>
+<m:content>&lt;a href=&quot;/drupal-8.2.1/node/3/translations&quot;&gt;</m:content>
+</m:mark>
+</m:tunit-target-metadata>
+<m:editing-stats>
+<m:thinking-time>528</m:thinking-time>
+<m:editing-time>528</m:editing-time>
+</m:editing-stats>
+</trans-unit>
+</group>
+<group id="11">
+<context-group>
+<context context-type="x-key">49][body][0][value</context>
+</context-group>
+<trans-unit id="FapH6ODcsAhLEgom_dc1:11" m:para-id="7" xml:space="preserve" m:trans-origin="null" m:score="0" m:gross-score="0" m:confirmed="1" m:locked="false" m:level-edited="true" m:created-by="3" m:created-at="1501833858420" m:modified-by="3" m:modified-at="1501833950415">
+<source>After submitting the job, the status is changed to &quot;In progress&quot;.</source>
+<target>A$f$t$e$r$ s$u$b$m$i$t$t$i$n$g$ t$h$e$ j$o$b$, t$h$e$ s$t$a$t$u$s</target>
+<alt-trans origin="machine-trans">
+<target></target>
+</alt-trans>
+<alt-trans origin="memsource-tm">
+<target></target>
+</alt-trans>
+<m:tunit-metadata/>
+<m:tunit-target-metadata/>
+<m:editing-stats>
+<m:thinking-time>553</m:thinking-time>
+<m:editing-time>553</m:editing-time>
+</m:editing-stats>
+</trans-unit>
+</group>
+<group id="12">
+<context-group>
+<context context-type="x-key">49][body][0][value</context>
+</context-group>
+<trans-unit id="FapH6ODcsAhLEgom_dc1:12" m:para-id="7" xml:space="preserve" m:trans-origin="null" m:score="0" m:gross-score="0" m:confirmed="1" m:locked="false" m:level-edited="true" m:created-by="3" m:created-at="1501833858421" m:modified-by="3" m:modified-at="1501833951014">
+<source>In case of a machine translator, the translation is immediately returned.</source>
+<target>I$n$ c$a$s$e$ o$f$ a$ m$a$c$h$i$n$e$ t$r$a$n$s$l$a$t$o$r$, t$h$e$ t$r$a$n</target>
+<alt-trans origin="machine-trans">
+<target></target>
+</alt-trans>
+<alt-trans origin="memsource-tm">
+<target></target>
+</alt-trans>
+<m:tunit-metadata/>
+<m:tunit-target-metadata/>
+<m:editing-stats>
+<m:thinking-time>591</m:thinking-time>
+<m:editing-time>591</m:editing-time>
+</m:editing-stats>
+</trans-unit>
+</group>
+<group id="13">
+<context-group>
+<context context-type="x-key">49][body][0][value</context>
+</context-group>
+<trans-unit id="FapH6ODcsAhLEgom_dc1:13" m:para-id="7" xml:space="preserve" m:trans-origin="null" m:score="0" m:gross-score="0" m:confirmed="1" m:locked="false" m:level-edited="true" m:created-by="3" m:created-at="1501833858423" m:modified-by="3" m:modified-at="1501833951867">
+<source>The status is then &quot;Needs review&quot;.</source>
+<target>T$h$e$ s$t$a$t$u$s$ i$s$ t$h$e$n$ </target>
+<alt-trans origin="machine-trans">
+<target></target>
+</alt-trans>
+<alt-trans origin="memsource-tm">
+<target></target>
+</alt-trans>
+<m:tunit-metadata/>
+<m:tunit-target-metadata/>
+<m:editing-stats>
+<m:thinking-time>844</m:thinking-time>
+<m:editing-time>844</m:editing-time>
+</m:editing-stats>
+</trans-unit>
+</group>
+<group id="14">
+<context-group>
+<context context-type="x-key">49][body][0][value</context>
+</context-group>
+<trans-unit id="FapH6ODcsAhLEgom_dc1:14" m:para-id="8" xml:space="preserve" m:trans-origin="null" m:score="0" m:gross-score="0" m:confirmed="1" m:locked="false" m:level-edited="true" m:created-by="3" m:created-at="1501833858424" m:modified-by="3" m:modified-at="1501833953299">
+<source>&quot;In progress&quot; is the state where we are awaiting the translations from the translator.</source>
+<target>&quot;I$n$ p$r$o$g$r$e$s$s$&quot; i$s$ t$h$e$ s$t$a$t$e$ w$h$e$r$e$ w$e$ a$r$e$ a$w$a$i$t$i$n$g$</target>
+<alt-trans origin="machine-trans">
+<target></target>
+</alt-trans>
+<alt-trans origin="memsource-tm">
+<target></target>
+</alt-trans>
+<m:tunit-metadata/>
+<m:tunit-target-metadata/>
+<m:editing-stats>
+<m:thinking-time>1436</m:thinking-time>
+<m:editing-time>1436</m:editing-time>
+</m:editing-stats>
+</trans-unit>
+</group>
+<group id="15">
+<context-group>
+<context context-type="x-key">49][body][0][value</context>
+</context-group>
+<trans-unit id="FapH6ODcsAhLEgom_dc1:15" m:para-id="9" xml:space="preserve" m:trans-origin="null" m:score="0" m:gross-score="0" m:confirmed="1" m:locked="false" m:level-edited="true" m:created-by="3" m:created-at="1501833858425" m:modified-by="3" m:modified-at="1501833953842">
+<source>Once the translations are provided by the translator, we can review the job items (and correct) the translated content.</source>
+<target>O$n$c$e$ t$h$e$ t$r$a$n$s$l$a$t$i$o$n$s$ a$r$e$ p$r$o$v$i$d$e$d$ b$y$ t$h$e$ t$r$a$n$s$l$a$t$o$r$, w$e$ c$a$n$ r$e$v$i$</target>
+<alt-trans origin="machine-trans">
+<target></target>
+</alt-trans>
+<alt-trans origin="memsource-tm">
+<target></target>
+</alt-trans>
+<m:tunit-metadata/>
+<m:tunit-target-metadata/>
+<m:editing-stats>
+<m:thinking-time>555</m:thinking-time>
+<m:editing-time>555</m:editing-time>
+</m:editing-stats>
+</trans-unit>
+</group>
+<group id="16">
+<context-group>
+<context context-type="x-key">49][body][0][value</context>
+</context-group>
+<trans-unit id="FapH6ODcsAhLEgom_dc1:16" m:para-id="9" xml:space="preserve" m:trans-origin="null" m:score="0" m:gross-score="0" m:confirmed="1" m:locked="false" m:level-edited="true" m:created-by="3" m:created-at="1501833858427" m:modified-by="3" m:modified-at="1501833954919">
+<source>Some translators support feedback cycles.</source>
+<target>S$o$m$e$ t$r$a$n$s$l$a$t$o$r$s$ s$u$p$p$o</target>
+<alt-trans origin="machine-trans">
+<target></target>
+</alt-trans>
+<alt-trans origin="memsource-tm">
+<target></target>
+</alt-trans>
+<m:tunit-metadata/>
+<m:tunit-target-metadata/>
+<m:editing-stats>
+<m:thinking-time>1068</m:thinking-time>
+<m:editing-time>1068</m:editing-time>
+</m:editing-stats>
+</trans-unit>
+</group>
+<group id="17">
+<context-group>
+<context context-type="x-key">49][body][0][value</context>
+</context-group>
+<trans-unit id="FapH6ODcsAhLEgom_dc1:17" m:para-id="9" xml:space="preserve" m:trans-origin="null" m:score="0" m:gross-score="0" m:confirmed="1" m:locked="false" m:level-edited="true" m:created-by="3" m:created-at="1501833858428" m:modified-by="3" m:modified-at="1501833955470">
+<source>We can send an item that needs a better translation back to the translator with some comments.</source>
+<target>W$e$ c$a$n$ s$e$n$d$ a$n$ i$t$e$m$ t$h$a$t$ n$e$e$d$s$ a$ b$e$t$t$e$r$ t$r$a$n$s$l$a$t$i$o$n$ </target>
+<alt-trans origin="machine-trans">
+<target></target>
+</alt-trans>
+<alt-trans origin="memsource-tm">
+<target></target>
+</alt-trans>
+<m:tunit-metadata/>
+<m:tunit-target-metadata/>
+<m:editing-stats>
+<m:thinking-time>559</m:thinking-time>
+<m:editing-time>559</m:editing-time>
+</m:editing-stats>
+</trans-unit>
+</group>
+<group id="18">
+<context-group>
+<context context-type="x-key">49][body][0][value</context>
+</context-group>
+<trans-unit id="FapH6ODcsAhLEgom_dc1:18" m:para-id="9" xml:space="preserve" m:trans-origin="null" m:score="0" m:gross-score="0" m:confirmed="1" m:locked="false" m:level-edited="true" m:created-by="3" m:created-at="1501833858430" m:modified-by="3" m:modified-at="1501833956017">
+<source>If the translation is fine, we can accept the job items (or the job).</source>
+<target>I$f$ t$h$e$ t$r$a$n$s$l$a$t$i$o$n$ i$s$ f$i$n$e$, w$e$ c$a$n$ a$c$c$e</target>
+<alt-trans origin="machine-trans">
+<target></target>
+</alt-trans>
+<alt-trans origin="memsource-tm">
+<target></target>
+</alt-trans>
+<m:tunit-metadata/>
+<m:tunit-target-metadata/>
+<m:editing-stats>
+<m:thinking-time>550</m:thinking-time>
+<m:editing-time>550</m:editing-time>
+</m:editing-stats>
+</trans-unit>
+</group>
+<group id="19">
+<context-group>
+<context context-type="x-key">49][body][0][value</context>
+</context-group>
+<trans-unit id="FapH6ODcsAhLEgom_dc1:19" m:para-id="9" xml:space="preserve" m:trans-origin="null" m:score="0" m:gross-score="0" m:confirmed="1" m:locked="false" m:level-edited="true" m:created-by="3" m:created-at="1501833858431" m:modified-by="3" m:modified-at="1501833956560">
+<source>This is when the source items are updated/the translation is created.</source>
+<target>T$h$i$s$ i$s$ w$h$e$n$ t$h$e$ s$o$u$r$c$e$ i$t$e$m$s$ a$r$e$ u$p$d$a$</target>
+<alt-trans origin="machine-trans">
+<target></target>
+</alt-trans>
+<alt-trans origin="memsource-tm">
+<target></target>
+</alt-trans>
+<m:tunit-metadata/>
+<m:tunit-target-metadata/>
+<m:editing-stats>
+<m:thinking-time>537</m:thinking-time>
+<m:editing-time>537</m:editing-time>
+</m:editing-stats>
+</trans-unit>
+</group>
+<group id="20">
+<context-group>
+<context context-type="x-key">49][body][0][value</context>
+</context-group>
+<trans-unit id="FapH6ODcsAhLEgom_dc1:20" m:para-id="10" xml:space="preserve" m:trans-origin="null" m:score="0" m:gross-score="0" m:confirmed="1" m:locked="false" m:level-edited="true" m:created-by="3" m:created-at="1501833858432" m:modified-by="3" m:modified-at="1501833957108">
+<source>The job is finally in the state of being published</source>
+<target>T$h$e$ j$o$b$ i$s$ f$i$n$a$l$l$y$ i$n$ t$h$e$ s$t$</target>
+<alt-trans origin="machine-trans">
+<target></target>
+</alt-trans>
+<alt-trans origin="memsource-tm">
+<target></target>
+</alt-trans>
+<m:tunit-metadata/>
+<m:tunit-target-metadata/>
+<m:editing-stats>
+<m:thinking-time>546</m:thinking-time>
+<m:editing-time>546</m:editing-time>
+</m:editing-stats>
+</trans-unit>
+</group>
+<group id="21">
+<context-group>
+<context context-type="x-key">49][body][0][value</context>
+</context-group>
+<trans-unit id="FapH6ODcsAhLEgom_dc1:21" m:para-id="11" xml:space="preserve" m:trans-origin="null" m:score="0" m:gross-score="0" m:confirmed="1" m:locked="false" m:level-edited="true" m:created-by="3" m:created-at="1501833858433" m:modified-by="3" m:modified-at="1501833957651">
+<source>{1}In the TMGMT demo module the {2&gt;File translator&lt;2} is enabled by default.</source>
+<target>{1}I$n$ t$h$e$ T$M$G$M$T$ d$e$m$o$ m$o$d$u$l$e$ t$h$e$ {2&gt;F$i$l$e$ t$r$a$&lt;2}</target>
+<alt-trans origin="machine-trans">
+<target></target>
+</alt-trans>
+<alt-trans origin="memsource-tm">
+<target></target>
+</alt-trans>
+<m:tunit-metadata>
+<m:mark id="1">
+<m:type>span</m:type>
+<m:content>&lt;span&gt;</m:content>
+</m:mark>
+<m:mark id="2">
+<m:type>a</m:type>
+<m:content>&lt;a href=&quot;/drupal-8.2.1/admin/config/regional/tmgmt_translator/manage/file&quot;&gt;</m:content>
+</m:mark>
+</m:tunit-metadata>
+<m:tunit-target-metadata>
+<m:mark id="1">
+<m:type>span</m:type>
+<m:content>&lt;span&gt;</m:content>
+</m:mark>
+<m:mark id="2">
+<m:type>a</m:type>
+<m:content>&lt;a href=&quot;/drupal-8.2.1/admin/config/regional/tmgmt_translator/manage/file&quot;&gt;</m:content>
+</m:mark>
+</m:tunit-target-metadata>
+<m:editing-stats>
+<m:thinking-time>542</m:thinking-time>
+<m:editing-time>542</m:editing-time>
+</m:editing-stats>
+</trans-unit>
+</group>
+<group id="22">
+<context-group>
+<context context-type="x-key">49][body][0][value</context>
+</context-group>
+<trans-unit id="FapH6ODcsAhLEgom_dc1:22" m:para-id="11" xml:space="preserve" m:trans-origin="null" m:score="0" m:gross-score="0" m:confirmed="1" m:locked="false" m:level-edited="true" m:created-by="3" m:created-at="1501833858434" m:modified-by="3" m:modified-at="1501833958196">
+<source>It allows users to export and import texts via xliff and HTML.</source>
+<target>I$t$ a$l$l$o$w$s$ u$s$e$r$s$ t$o$ e$x$p$o$r$t$ a$n$d$ i$m$p$o$</target>
+<alt-trans origin="machine-trans">
+<target></target>
+</alt-trans>
+<alt-trans origin="memsource-tm">
+<target></target>
+</alt-trans>
+<m:tunit-metadata/>
+<m:tunit-target-metadata/>
+<m:editing-stats>
+<m:thinking-time>541</m:thinking-time>
+<m:editing-time>541</m:editing-time>
+</m:editing-stats>
+</trans-unit>
+</group>
+<group id="23">
+<context-group>
+<context context-type="x-key">49][body][0][value</context>
+</context-group>
+<trans-unit id="FapH6ODcsAhLEgom_dc1:23" m:para-id="11" xml:space="preserve" m:trans-origin="null" m:score="0" m:gross-score="0" m:confirmed="1" m:locked="false" m:level-edited="true" m:created-by="3" m:created-at="1501833858435" m:modified-by="3" m:modified-at="1501833958956">
+<source>The workflow is the following:{3}</source>
+<target>T$h$e$ w$o$r$k$f$l$o$w$ i$s$ t{3}</target>
+<alt-trans origin="machine-trans">
+<target></target>
+</alt-trans>
+<alt-trans origin="memsource-tm">
+<target></target>
+</alt-trans>
+<m:tunit-metadata>
+<m:mark id="3">
+<m:type>span</m:type>
+<m:content>&lt;/span&gt;</m:content>
+</m:mark>
+</m:tunit-metadata>
+<m:tunit-target-metadata>
+<m:mark id="3">
+<m:type>span</m:type>
+<m:content>&lt;/span&gt;</m:content>
+</m:mark>
+</m:tunit-target-metadata>
+<m:editing-stats>
+<m:thinking-time>762</m:thinking-time>
+<m:editing-time>762</m:editing-time>
+</m:editing-stats>
+</trans-unit>
+</group>
+<group id="24">
+<context-group>
+<context context-type="x-key">49][body][0][value</context>
+</context-group>
+<trans-unit id="FapH6ODcsAhLEgom_dc1:24" m:para-id="12" xml:space="preserve" m:trans-origin="null" m:score="0" m:gross-score="0" m:confirmed="1" m:locked="false" m:level-edited="true" m:created-by="3" m:created-at="1501833858437" m:modified-by="3" m:modified-at="1501833959510">
+<source>Submit a job to the File translator.</source>
+<target>S$u$b$m$i$t$ a$ j$o$b$ t$o$ t$h$e$ F</target>
+<alt-trans origin="machine-trans">
+<target></target>
+</alt-trans>
+<alt-trans origin="memsource-tm">
+<target></target>
+</alt-trans>
+<m:tunit-metadata/>
+<m:tunit-target-metadata/>
+<m:editing-stats>
+<m:thinking-time>555</m:thinking-time>
+<m:editing-time>555</m:editing-time>
+</m:editing-stats>
+</trans-unit>
+</group>
+<group id="25">
+<context-group>
+<context context-type="x-key">49][body][0][value</context>
+</context-group>
+<trans-unit id="FapH6ODcsAhLEgom_dc1:25" m:para-id="12" xml:space="preserve" m:trans-origin="null" m:score="0" m:gross-score="0" m:confirmed="1" m:locked="false" m:level-edited="true" m:created-by="3" m:created-at="1501833858438" m:modified-by="3" m:modified-at="1501833960093">
+<source>The job is in &quot;active&quot; state.</source>
+<target>T$h$e$ j$o$b$ i$s$ i$n$ &quot;a$c$</target>
+<alt-trans origin="machine-trans">
+<target></target>
+</alt-trans>
+<alt-trans origin="memsource-tm">
+<target></target>
+</alt-trans>
+<m:tunit-metadata/>
+<m:tunit-target-metadata/>
+<m:editing-stats>
+<m:thinking-time>596</m:thinking-time>
+<m:editing-time>596</m:editing-time>
+</m:editing-stats>
+</trans-unit>
+</group>
+<group id="26">
+<context-group>
+<context context-type="x-key">49][body][0][value</context>
+</context-group>
+<trans-unit id="FapH6ODcsAhLEgom_dc1:26" m:para-id="13" xml:space="preserve" m:trans-origin="null" m:score="0" m:gross-score="0" m:confirmed="1" m:locked="false" m:level-edited="true" m:created-by="3" m:created-at="1501833858439" m:modified-by="3" m:modified-at="1501833960658">
+<source>Export it as HTML/XLIFF format.</source>
+<target>E$x$p$o$r$t$ i$t$ a$s$ H$T$M$L$</target>
+<alt-trans origin="machine-trans">
+<target></target>
+</alt-trans>
+<alt-trans origin="memsource-tm">
+<target></target>
+</alt-trans>
+<m:tunit-metadata/>
+<m:tunit-target-metadata/>
+<m:editing-stats>
+<m:thinking-time>564</m:thinking-time>
+<m:editing-time>564</m:editing-time>
+</m:editing-stats>
+</trans-unit>
+</group>
+<group id="27">
+<context-group>
+<context context-type="x-key">49][body][0][value</context>
+</context-group>
+<trans-unit id="FapH6ODcsAhLEgom_dc1:27" m:para-id="14" xml:space="preserve" m:trans-origin="null" m:score="0" m:gross-score="0" m:confirmed="1" m:locked="false" m:level-edited="true" m:created-by="3" m:created-at="1501833858441" m:modified-by="3" m:modified-at="1501833961356">
+<source>Translate the content by editing the XLIFF files in plaintext or with a proper CAT tool.</source>
+<target>T$r$a$n$s$l$a$t$e$ t$h$e$ c$o$n$t$e$n$t$ b$y$ e$d$i$t$i$n$g$ t$h$e$ X$L$I$F$F$ f$i$l$e$s</target>
+<alt-trans origin="machine-trans">
+<target></target>
+</alt-trans>
+<alt-trans origin="memsource-tm">
+<target></target>
+</alt-trans>
+<m:tunit-metadata/>
+<m:tunit-target-metadata/>
+<m:editing-stats>
+<m:thinking-time>719</m:thinking-time>
+<m:editing-time>719</m:editing-time>
+</m:editing-stats>
+</trans-unit>
+</group>
+<group id="28">
+<context-group>
+<context context-type="x-key">49][body][0][value</context>
+</context-group>
+<trans-unit id="FapH6ODcsAhLEgom_dc1:28" m:para-id="15" xml:space="preserve" m:trans-origin="null" m:score="0" m:gross-score="0" m:confirmed="1" m:locked="false" m:level-edited="true" m:created-by="3" m:created-at="1501833858442" m:modified-by="3" m:modified-at="1501833962098">
+<source>Import it back on the site.</source>
+<target>I$m$p$o$r$t$ i$t$ b$a$c$k$ </target>
+<alt-trans origin="machine-trans">
+<target></target>
+</alt-trans>
+<alt-trans origin="memsource-tm">
+<target></target>
+</alt-trans>
+<m:tunit-metadata/>
+<m:tunit-target-metadata/>
+<m:editing-stats>
+<m:thinking-time>706</m:thinking-time>
+<m:editing-time>706</m:editing-time>
+</m:editing-stats>
+</trans-unit>
+</group>
+<group id="29">
+<context-group>
+<context context-type="x-key">49][body][0][value</context>
+</context-group>
+<trans-unit id="FapH6ODcsAhLEgom_dc1:29" m:para-id="16" xml:space="preserve" m:trans-origin="null" m:score="0" m:gross-score="0" m:confirmed="1" m:locked="false" m:level-edited="true" m:created-by="3" m:created-at="1501833858443" m:modified-by="3" m:modified-at="1501833962673">
+<source>Review the job items/data items.</source>
+<target>R$e$v$i$e$w$ t$h$e$ j$o$b$ i$t$e</target>
+<alt-trans origin="machine-trans">
+<target></target>
+</alt-trans>
+<alt-trans origin="memsource-tm">
+<target></target>
+</alt-trans>
+<m:tunit-metadata/>
+<m:tunit-target-metadata/>
+<m:editing-stats>
+<m:thinking-time>570</m:thinking-time>
+<m:editing-time>570</m:editing-time>
+</m:editing-stats>
+</trans-unit>
+</group>
+<group id="30">
+<context-group>
+<context context-type="x-key">49][body][0][value</context>
+</context-group>
+<trans-unit id="FapH6ODcsAhLEgom_dc1:30" m:para-id="16" xml:space="preserve" m:trans-origin="null" m:score="0" m:gross-score="0" m:confirmed="1" m:locked="false" m:level-edited="true" m:created-by="3" m:created-at="1501833858444" m:modified-by="3" m:modified-at="1501833963334">
+<source>XLIFF does not support a feedback loop or commenting an item.</source>
+<target>X$L$I$F$F$ d$o$e$s$ n$o$t$ s$u$p$p$o$r$t$ a$ f$e$e$d$b$a$c$k$</target>
+<alt-trans origin="machine-trans">
+<target></target>
+</alt-trans>
+<alt-trans origin="memsource-tm">
+<target></target>
+</alt-trans>
+<m:tunit-metadata/>
+<m:tunit-target-metadata/>
+<m:editing-stats>
+<m:thinking-time>665</m:thinking-time>
+<m:editing-time>665</m:editing-time>
+</m:editing-stats>
+</trans-unit>
+</group>
+<group id="31">
+<context-group>
+<context context-type="x-key">49][body][0][value</context>
+</context-group>
+<trans-unit id="FapH6ODcsAhLEgom_dc1:31" m:para-id="16" xml:space="preserve" m:trans-origin="null" m:score="0" m:gross-score="0" m:confirmed="1" m:locked="false" m:level-edited="true" m:created-by="3" m:created-at="1501833858445" m:modified-by="3" m:modified-at="1501833963928">
+<source>Improvements/fixings can only be done by the reviewer (or by reimporting the improved XLIFF).</source>
+<target>I$m$p$r$o$v$e$m$e$n$t$s$/f$i$x$i$n$g$s$ c$a$n$ o$n$l$y$ b$e$ d$o$n$e$ b$y$ t$h$e$ r$e$v$i$e$w</target>
+<alt-trans origin="machine-trans">
+<target></target>
+</alt-trans>
+<alt-trans origin="memsource-tm">
+<target></target>
+</alt-trans>
+<m:tunit-metadata/>
+<m:tunit-target-metadata/>
+<m:editing-stats>
+<m:thinking-time>621</m:thinking-time>
+<m:editing-time>621</m:editing-time>
+</m:editing-stats>
+</trans-unit>
+</group>
+<group id="32">
+<context-group>
+<context context-type="x-key">49][body][0][value</context>
+</context-group>
+<trans-unit id="FapH6ODcsAhLEgom_dc1:32" m:para-id="17" xml:space="preserve" m:trans-origin="null" m:score="0" m:gross-score="0" m:confirmed="1" m:locked="false" m:level-edited="true" m:created-by="3" m:created-at="1501833858447" m:modified-by="3" m:modified-at="1501833964546">
+<source>Press save as completed to accept the translation and finish the process.</source>
+<target>P$r$e$s$s$ s$a$v$e$ a$s$ c$o$m$p$l$e$t$e$d$ t$o$ a$c$c$e$p$t$ t$h$e$ t$r$</target>
+<alt-trans origin="machine-trans">
+<target></target>
+</alt-trans>
+<alt-trans origin="memsource-tm">
+<target></target>
+</alt-trans>
+<m:tunit-metadata/>
+<m:tunit-target-metadata/>
+<m:editing-stats>
+<m:thinking-time>614</m:thinking-time>
+<m:editing-time>614</m:editing-time>
+</m:editing-stats>
+</trans-unit>
+</group>
+<group id="33">
+<context-group>
+<context context-type="x-key">49][body][0][value</context>
+</context-group>
+<trans-unit id="FapH6ODcsAhLEgom_dc1:33" m:para-id="18" xml:space="preserve" m:trans-origin="null" m:score="0" m:gross-score="0" m:confirmed="1" m:locked="false" m:level-edited="true" m:created-by="3" m:created-at="1501833858448" m:modified-by="3" m:modified-at="1501833965139">
+<source>{1}In the TMGMT demo module the {2&gt;Drupal user&lt;2} provider is also enabled by default.</source>
+<target>{1}I$n$ t$h$e$ T$M$G$M$T$ d$e$m$o$ m$o$d$u$l$e$ t$h$e$ {2&gt;D$r$u$p$a$l$ u$s$e$r$&lt;2} p$r</target>
+<alt-trans origin="machine-trans">
+<target></target>
+</alt-trans>
+<alt-trans origin="memsource-tm">
+<target></target>
+</alt-trans>
+<m:tunit-metadata>
+<m:mark id="1">
+<m:type>span</m:type>
+<m:content>&lt;span&gt;</m:content>
+</m:mark>
+<m:mark id="2">
+<m:type>a</m:type>
+<m:content>&lt;a href=&quot;/drupal-8.2.1/admin/config/regional/tmgmt_translator/manage/local&quot;&gt;</m:content>
+</m:mark>
+</m:tunit-metadata>
+<m:tunit-target-metadata>
+<m:mark id="1">
+<m:type>span</m:type>
+<m:content>&lt;span&gt;</m:content>
+</m:mark>
+<m:mark id="2">
+<m:type>a</m:type>
+<m:content>&lt;a href=&quot;/drupal-8.2.1/admin/config/regional/tmgmt_translator/manage/local&quot;&gt;</m:content>
+</m:mark>
+</m:tunit-target-metadata>
+<m:editing-stats>
+<m:thinking-time>590</m:thinking-time>
+<m:editing-time>590</m:editing-time>
+</m:editing-stats>
+</trans-unit>
+</group>
+<group id="34">
+<context-group>
+<context context-type="x-key">49][body][0][value</context>
+</context-group>
+<trans-unit id="FapH6ODcsAhLEgom_dc1:34" m:para-id="18" xml:space="preserve" m:trans-origin="null" m:score="0" m:gross-score="0" m:confirmed="1" m:locked="false" m:level-edited="true" m:created-by="3" m:created-at="1501833858449" m:modified-by="3" m:modified-at="1501833965813">
+<source>It allows to assign translation tasks to the users of the site that have the abilities to translate it (The demo adds all the abilities to all the users).</source>
+<target>I$t$ a$l$l$o$w$s$ t$o$ a$s$s$i$g$n$ t$r$a$n$s$l$a$t$i$o$n$ t$a$s$k$s$ t$o$ t$h$e$ u$s$e$r$s$ o$f$ t$h$e$ s$i$t$e$ t$h$a$t$ h$a$v$e$ t$h$e$ a$b$i$l$i$t$i$e</target>
+<alt-trans origin="machine-trans">
+<target></target>
+</alt-trans>
+<alt-trans origin="memsource-tm">
+<target></target>
+</alt-trans>
+<m:tunit-metadata/>
+<m:tunit-target-metadata/>
+<m:editing-stats>
+<m:thinking-time>666</m:thinking-time>
+<m:editing-time>666</m:editing-time>
+</m:editing-stats>
+</trans-unit>
+</group>
+<group id="35">
+<context-group>
+<context context-type="x-key">49][body][0][value</context>
+</context-group>
+<trans-unit id="FapH6ODcsAhLEgom_dc1:35" m:para-id="18" xml:space="preserve" m:trans-origin="null" m:score="0" m:gross-score="0" m:confirmed="1" m:locked="false" m:level-edited="true" m:created-by="3" m:created-at="1501833858450" m:modified-by="3" m:modified-at="1501833958956">
+<source>The workflow is the following:{3}</source>
+<target>T$h$e$ w$o$r$k$f$l$o$w$ i$s$ t{3}</target>
+<alt-trans origin="machine-trans">
+<target></target>
+</alt-trans>
+<alt-trans origin="memsource-tm">
+<target></target>
+</alt-trans>
+<m:tunit-metadata>
+<m:mark id="3">
+<m:type>span</m:type>
+<m:content>&lt;/span&gt;</m:content>
+</m:mark>
+</m:tunit-metadata>
+<m:tunit-target-metadata>
+<m:mark id="3">
+<m:type>span</m:type>
+<m:content>&lt;/span&gt;</m:content>
+</m:mark>
+</m:tunit-target-metadata>
+<m:editing-stats>
+<m:thinking-time>0</m:thinking-time>
+<m:editing-time>0</m:editing-time>
+</m:editing-stats>
+</trans-unit>
+</group>
+<group id="36">
+<context-group>
+<context context-type="x-key">49][body][0][value</context>
+</context-group>
+<trans-unit id="FapH6ODcsAhLEgom_dc1:36" m:para-id="19" xml:space="preserve" m:trans-origin="null" m:score="0" m:gross-score="0" m:confirmed="1" m:locked="false" m:level-edited="true" m:created-by="3" m:created-at="1501833858451" m:modified-by="3" m:modified-at="1501833966864">
+<source>Submit a job to the Drupal user provider and select translator for the job.</source>
+<target>S$u$b$m$i$t$ a$ j$o$b$ t$o$ t$h$e$ D$r$u$p$a$l$ u$s$e$r$ p$r$o$v$i$d$e$r$ a</target>
+<alt-trans origin="machine-trans">
+<target></target>
+</alt-trans>
+<alt-trans origin="memsource-tm">
+<target></target>
+</alt-trans>
+<m:tunit-metadata/>
+<m:tunit-target-metadata/>
+<m:editing-stats>
+<m:thinking-time>1043</m:thinking-time>
+<m:editing-time>1043</m:editing-time>
+</m:editing-stats>
+</trans-unit>
+</group>
+<group id="37">
+<context-group>
+<context context-type="x-key">49][body][0][value</context>
+</context-group>
+<trans-unit id="FapH6ODcsAhLEgom_dc1:37" m:para-id="19" xml:space="preserve" m:trans-origin="null" m:score="0" m:gross-score="0" m:confirmed="1" m:locked="false" m:level-edited="true" m:created-by="3" m:created-at="1501833858452" m:modified-by="3" m:modified-at="1501833960094">
+<source>The job is in &quot;active&quot; state.</source>
+<target>T$h$e$ j$o$b$ i$s$ i$n$ &quot;a$c$</target>
+<alt-trans origin="machine-trans">
+<target></target>
+</alt-trans>
+<alt-trans origin="memsource-tm">
+<target></target>
+</alt-trans>
+<m:tunit-metadata/>
+<m:tunit-target-metadata/>
+<m:editing-stats>
+<m:thinking-time>0</m:thinking-time>
+<m:editing-time>0</m:editing-time>
+</m:editing-stats>
+</trans-unit>
+</group>
+<group id="38">
+<context-group>
+<context context-type="x-key">49][body][0][value</context>
+</context-group>
+<trans-unit id="FapH6ODcsAhLEgom_dc1:38" m:para-id="20" xml:space="preserve" m:trans-origin="null" m:score="0" m:gross-score="0" m:confirmed="1" m:locked="false" m:level-edited="true" m:created-by="3" m:created-at="1501833858453" m:modified-by="3" m:modified-at="1501833967682">
+<source>The user will translate the task.</source>
+<target>T$h$e$ u$s$e$r$ w$i$l$l$ t$r$a$n$</target>
+<alt-trans origin="machine-trans">
+<target></target>
+</alt-trans>
+<alt-trans origin="memsource-tm">
+<target></target>
+</alt-trans>
+<m:tunit-metadata/>
+<m:tunit-target-metadata/>
+<m:editing-stats>
+<m:thinking-time>813</m:thinking-time>
+<m:editing-time>813</m:editing-time>
+</m:editing-stats>
+</trans-unit>
+</group>
+<group id="39">
+<context-group>
+<context context-type="x-key">49][body][0][value</context>
+</context-group>
+<trans-unit id="FapH6ODcsAhLEgom_dc1:39" m:para-id="20" xml:space="preserve" m:trans-origin="null" m:score="0" m:gross-score="0" m:confirmed="1" m:locked="false" m:level-edited="true" m:created-by="3" m:created-at="1501833858454" m:modified-by="3" m:modified-at="1501833968218">
+<source>Also the task items can be reviewed.</source>
+<target>A$l$s$o$ t$h$e$ t$a$s$k$ i$t$e$m$s$ </target>
+<alt-trans origin="machine-trans">
+<target></target>
+</alt-trans>
+<alt-trans origin="memsource-tm">
+<target></target>
+</alt-trans>
+<m:tunit-metadata/>
+<m:tunit-target-metadata/>
+<m:editing-stats>
+<m:thinking-time>537</m:thinking-time>
+<m:editing-time>537</m:editing-time>
+</m:editing-stats>
+</trans-unit>
+</group>
+<group id="40">
+<context-group>
+<context context-type="x-key">49][body][0][value</context>
+</context-group>
+<trans-unit id="FapH6ODcsAhLEgom_dc1:40" m:para-id="21" xml:space="preserve" m:trans-origin="null" m:score="0" m:gross-score="0" m:confirmed="1" m:locked="false" m:level-edited="true" m:created-by="3" m:created-at="1501833858455" m:modified-by="3" m:modified-at="1501833968861">
+<source>When the translation is done, the user will set the task as completed.</source>
+<target>W$h$e$n$ t$h$e$ t$r$a$n$s$l$a$t$i$o$n$ i$s$ d$o$n$e$, t$h$e$ u$s$e$r$ </target>
+<alt-trans origin="machine-trans">
+<target></target>
+</alt-trans>
+<alt-trans origin="memsource-tm">
+<target></target>
+</alt-trans>
+<m:tunit-metadata/>
+<m:tunit-target-metadata/>
+<m:editing-stats>
+<m:thinking-time>646</m:thinking-time>
+<m:editing-time>646</m:editing-time>
+</m:editing-stats>
+</trans-unit>
+</group>
+<group id="41">
+<context-group>
+<context context-type="x-key">49][body][0][value</context>
+</context-group>
+<trans-unit id="FapH6ODcsAhLEgom_dc1:41" m:para-id="22" xml:space="preserve" m:trans-origin="null" m:score="0" m:gross-score="0" m:confirmed="1" m:locked="false" m:level-edited="true" m:created-by="3" m:created-at="1501833858456" m:modified-by="3" m:modified-at="1501833969451">
+<source>Review the job items.</source>
+<target>R$e$v$i$e$w$ t$h$e$ j</target>
+<alt-trans origin="machine-trans">
+<target></target>
+</alt-trans>
+<alt-trans origin="memsource-tm">
+<target></target>
+</alt-trans>
+<m:tunit-metadata/>
+<m:tunit-target-metadata/>
+<m:editing-stats>
+<m:thinking-time>587</m:thinking-time>
+<m:editing-time>587</m:editing-time>
+</m:editing-stats>
+</trans-unit>
+</group>
+<group id="42">
+<context-group>
+<context context-type="x-key">49][body][0][value</context>
+</context-group>
+<trans-unit id="FapH6ODcsAhLEgom_dc1:42" m:para-id="22" xml:space="preserve" m:trans-origin="null" m:score="0" m:gross-score="0" m:confirmed="1" m:locked="false" m:level-edited="true" m:created-by="3" m:created-at="1501833858457" m:modified-by="3" m:modified-at="1501833969988">
+<source>This translator does not support a feedback loop or commenting an item.</source>
+<target>T$h$i$s$ t$r$a$n$s$l$a$t$o$r$ d$o$e$s$ n$o$t$ s$u$p$p$o$r$t$ a$ f$e$e$d</target>
+<alt-trans origin="machine-trans">
+<target></target>
+</alt-trans>
+<alt-trans origin="memsource-tm">
+<target></target>
+</alt-trans>
+<m:tunit-metadata/>
+<m:tunit-target-metadata/>
+<m:editing-stats>
+<m:thinking-time>553</m:thinking-time>
+<m:editing-time>553</m:editing-time>
+</m:editing-stats>
+</trans-unit>
+</group>
+<group id="43">
+<context-group>
+<context context-type="x-key">49][body][0][value</context>
+</context-group>
+<trans-unit id="FapH6ODcsAhLEgom_dc1:43" m:para-id="22" xml:space="preserve" m:trans-origin="null" m:score="0" m:gross-score="0" m:confirmed="1" m:locked="false" m:level-edited="true" m:created-by="3" m:created-at="1501833858458" m:modified-by="3" m:modified-at="1501833970532">
+<source>Improvements/fixings can only be done by the reviewer.</source>
+<target>I$m$p$r$o$v$e$m$e$n$t$s$/f$i$x$i$n$g$s$ c$a$n$ o$n$l$y</target>
+<alt-trans origin="machine-trans">
+<target></target>
+</alt-trans>
+<alt-trans origin="memsource-tm">
+<target></target>
+</alt-trans>
+<m:tunit-metadata/>
+<m:tunit-target-metadata/>
+<m:editing-stats>
+<m:thinking-time>536</m:thinking-time>
+<m:editing-time>536</m:editing-time>
+</m:editing-stats>
+</trans-unit>
+</group>
+<group id="44">
+<context-group>
+<context context-type="x-key">49][body][0][value</context>
+</context-group>
+<trans-unit id="FapH6ODcsAhLEgom_dc1:44" m:para-id="23" xml:space="preserve" m:trans-origin="null" m:score="0" m:gross-score="0" m:confirmed="1" m:locked="false" m:level-edited="true" m:created-by="3" m:created-at="1501833858459" m:modified-by="3" m:modified-at="1501833964546">
+<source>Press save as completed to accept the translation and finish the process.</source>
+<target>P$r$e$s$s$ s$a$v$e$ a$s$ c$o$m$p$l$e$t$e$d$ t$o$ a$c$c$e$p$t$ t$h$e$ t$r$</target>
+<alt-trans origin="machine-trans">
+<target></target>
+</alt-trans>
+<alt-trans origin="memsource-tm">
+<target></target>
+</alt-trans>
+<m:tunit-metadata/>
+<m:tunit-target-metadata/>
+<m:editing-stats>
+<m:thinking-time>0</m:thinking-time>
+<m:editing-time>0</m:editing-time>
+</m:editing-stats>
+</trans-unit>
+</group>
+<group id="45">
+<context-group>
+<context context-type="x-key">49][body][0][value</context>
+</context-group>
+<trans-unit id="FapH6ODcsAhLEgom_dc1:45" m:para-id="24" xml:space="preserve" m:trans-origin="null" m:score="0" m:gross-score="0" m:confirmed="1" m:locked="false" m:level-edited="true" m:created-by="3" m:created-at="1501833858460" m:modified-by="3" m:modified-at="1501833971869">
+<source>TMGMT demo also supports translation of paragraphs.</source>
+<target>T$M$G$M$T$ d$e$m$o$ a$l$s$o$ s$u$p$p$o$r$t$s$ t$r$a</target>
+<alt-trans origin="machine-trans">
+<target></target>
+</alt-trans>
+<alt-trans origin="memsource-tm">
+<target></target>
+</alt-trans>
+<m:tunit-metadata/>
+<m:tunit-target-metadata/>
+<m:editing-stats>
+<m:thinking-time>1342</m:thinking-time>
+<m:editing-time>1342</m:editing-time>
+</m:editing-stats>
+</trans-unit>
+</group>
+<group id="46">
+<context-group>
+<context context-type="x-key">49][body][0][value</context>
+</context-group>
+<trans-unit id="FapH6ODcsAhLEgom_dc1:46" m:para-id="24" xml:space="preserve" m:trans-origin="null" m:score="0" m:gross-score="0" m:confirmed="1" m:locked="false" m:level-edited="true" m:created-by="3" m:created-at="1501833858461" m:modified-by="3" m:modified-at="1501833972555">
+<source>To do this, you first need to enable paragraphs_demo and tmgmt_demo after that.</source>
+<target>T$o$ d$o$ t$h$i$s$, y$o$u$ f$i$r$s$t$ n$e$e$d$ t$o$ e$n$a$b$l$e$ p$a$r$a$g$r$a$</target>
+<alt-trans origin="machine-trans">
+<target></target>
+</alt-trans>
+<alt-trans origin="memsource-tm">
+<target></target>
+</alt-trans>
+<m:tunit-metadata/>
+<m:tunit-target-metadata/>
+<m:editing-stats>
+<m:thinking-time>679</m:thinking-time>
+<m:editing-time>679</m:editing-time>
+</m:editing-stats>
+</trans-unit>
+</group>
+<group id="47">
+<context-group>
+<context context-type="x-key">49][body][0][value</context>
+</context-group>
+<trans-unit id="FapH6ODcsAhLEgom_dc1:47" m:para-id="25" xml:space="preserve" m:trans-origin="null" m:score="0" m:gross-score="0" m:confirmed="1" m:locked="false" m:level-edited="true" m:created-by="3" m:created-at="1501833858462" m:modified-by="3" m:modified-at="1501833973313">
+<source>{1}External translation services can be used for creating a foreign language version of the source text.</source>
+<target>{1}E$x$t$e$r$n$a$l$ t$r$a$n$s$l$a$t$i$o$n$ s$e$r$v$i$c$e$s$ c$a$n$ b$e$ u$s$e$d$ f$o$r$ c$r$e$a$t$i$n$g$</target>
+<alt-trans origin="machine-trans">
+<target></target>
+</alt-trans>
+<alt-trans origin="memsource-tm">
+<target></target>
+</alt-trans>
+<m:tunit-metadata>
+<m:mark id="1">
+<m:type>span</m:type>
+<m:content>&lt;span&gt;</m:content>
+</m:mark>
+</m:tunit-metadata>
+<m:tunit-target-metadata>
+<m:mark id="1">
+<m:type>span</m:type>
+<m:content>&lt;span&gt;</m:content>
+</m:mark>
+</m:tunit-target-metadata>
+<m:editing-stats>
+<m:thinking-time>757</m:thinking-time>
+<m:editing-time>757</m:editing-time>
+</m:editing-stats>
+</trans-unit>
+</group>
+<group id="48">
+<context-group>
+<context context-type="x-key">49][body][0][value</context>
+</context-group>
+<trans-unit id="FapH6ODcsAhLEgom_dc1:48" m:para-id="25" xml:space="preserve" m:trans-origin="null" m:score="0" m:gross-score="0" m:confirmed="1" m:locked="false" m:level-edited="true" m:created-by="3" m:created-at="1501833858463" m:modified-by="3" m:modified-at="1501833974058">
+<source>These are the recommended translators:{2}</source>
+<target>T$h$e$s$e$ a$r$e$ t$h$e$ r$e$c$o$m$m$e{2}</target>
+<alt-trans origin="machine-trans">
+<target></target>
+</alt-trans>
+<alt-trans origin="memsource-tm">
+<target></target>
+</alt-trans>
+<m:tunit-metadata>
+<m:mark id="2">
+<m:type>span</m:type>
+<m:content>&lt;/span&gt;</m:content>
+</m:mark>
+</m:tunit-metadata>
+<m:tunit-target-metadata>
+<m:mark id="2">
+<m:type>span</m:type>
+<m:content>&lt;/span&gt;</m:content>
+</m:mark>
+</m:tunit-target-metadata>
+<m:editing-stats>
+<m:thinking-time>741</m:thinking-time>
+<m:editing-time>741</m:editing-time>
+</m:editing-stats>
+</trans-unit>
+</group>
+<group id="49">
+<context-group>
+<context context-type="x-key">49][body][0][value</context>
+</context-group>
+<trans-unit id="FapH6ODcsAhLEgom_dc1:49" m:para-id="26" xml:space="preserve" m:trans-origin="null" m:score="0" m:gross-score="0" m:confirmed="1" m:locked="false" m:level-edited="true" m:created-by="3" m:created-at="1501833858464" m:modified-by="3" m:modified-at="1501833974709">
+<source>{1&gt;Microsoft&lt;1}</source>
+<target>{1&gt;M$i$c$r$o&lt;1}</target>
+<alt-trans origin="machine-trans">
+<target></target>
+</alt-trans>
+<alt-trans origin="memsource-tm">
+<target></target>
+</alt-trans>
+<m:tunit-metadata>
+<m:mark id="1">
+<m:type>a</m:type>
+<m:content>&lt;a href=&quot;https://www.drupal.org/project/tmgmt_microsoft&quot;&gt;</m:content>
+</m:mark>
+</m:tunit-metadata>
+<m:tunit-target-metadata>
+<m:mark id="1">
+<m:type>a</m:type>
+<m:content>&lt;a href=&quot;https://www.drupal.org/project/tmgmt_microsoft&quot;&gt;</m:content>
+</m:mark>
+</m:tunit-target-metadata>
+<m:editing-stats>
+<m:thinking-time>644</m:thinking-time>
+<m:editing-time>644</m:editing-time>
+</m:editing-stats>
+</trans-unit>
+</group>
+<group id="50">
+<context-group>
+<context context-type="x-key">49][body][0][value</context>
+</context-group>
+<trans-unit id="FapH6ODcsAhLEgom_dc1:50" m:para-id="27" xml:space="preserve" m:trans-origin="null" m:score="0" m:gross-score="0" m:confirmed="1" m:locked="false" m:level-edited="true" m:created-by="3" m:created-at="1501833858465" m:modified-by="3" m:modified-at="1501833975405">
+<source>{1&gt;Google translate&lt;1}</source>
+<target>{1&gt;G$o$o$g$l$e$ t$r&lt;1}</target>
+<alt-trans origin="machine-trans">
+<target></target>
+</alt-trans>
+<alt-trans origin="memsource-tm">
+<target></target>
+</alt-trans>
+<m:tunit-metadata>
+<m:mark id="1">
+<m:type>a</m:type>
+<m:content>&lt;a href=&quot;https://www.drupal.org/project/tmgmt_google&quot;&gt;</m:content>
+</m:mark>
+</m:tunit-metadata>
+<m:tunit-target-metadata>
+<m:mark id="1">
+<m:type>a</m:type>
+<m:content>&lt;a href=&quot;https://www.drupal.org/project/tmgmt_google&quot;&gt;</m:content>
+</m:mark>
+</m:tunit-target-metadata>
+<m:editing-stats>
+<m:thinking-time>698</m:thinking-time>
+<m:editing-time>698</m:editing-time>
+</m:editing-stats>
+</trans-unit>
+</group>
+<group id="51">
+<context-group>
+<context context-type="x-key">49][body][0][value</context>
+</context-group>
+<trans-unit id="FapH6ODcsAhLEgom_dc1:51" m:para-id="28" xml:space="preserve" m:trans-origin="null" m:score="0" m:gross-score="0" m:confirmed="1" m:locked="false" m:level-edited="true" m:created-by="3" m:created-at="1501833858466" m:modified-by="3" m:modified-at="1501833975981">
+<source>{1&gt;Gengo&lt;1}</source>
+<target>{1&gt;G$e$n&lt;1}</target>
+<alt-trans origin="machine-trans">
+<target></target>
+</alt-trans>
+<alt-trans origin="memsource-tm">
+<target></target>
+</alt-trans>
+<m:tunit-metadata>
+<m:mark id="1">
+<m:type>a</m:type>
+<m:content>&lt;a href=&quot;https://www.drupal.org/project/tmgmt_mygengo&quot;&gt;</m:content>
+</m:mark>
+</m:tunit-metadata>
+<m:tunit-target-metadata>
+<m:mark id="1">
+<m:type>a</m:type>
+<m:content>&lt;a href=&quot;https://www.drupal.org/project/tmgmt_mygengo&quot;&gt;</m:content>
+</m:mark>
+</m:tunit-target-metadata>
+<m:editing-stats>
+<m:thinking-time>577</m:thinking-time>
+<m:editing-time>577</m:editing-time>
+</m:editing-stats>
+</trans-unit>
+</group>
+<group id="52">
+<context-group>
+<context context-type="x-key">49][body][0][value</context>
+</context-group>
+<trans-unit id="FapH6ODcsAhLEgom_dc1:52" m:para-id="29" xml:space="preserve" m:trans-origin="null" m:score="0" m:gross-score="0" m:confirmed="1" m:locked="false" m:level-edited="true" m:created-by="3" m:created-at="1501833858467" m:modified-by="3" m:modified-at="1501833976715">
+<source>{1&gt;One Hour Translation&lt;1}</source>
+<target>{1&gt;O$n$e$ H$o$u$r$ T$r$&lt;1}</target>
+<alt-trans origin="machine-trans">
+<target></target>
+</alt-trans>
+<alt-trans origin="memsource-tm">
+<target></target>
+</alt-trans>
+<m:tunit-metadata>
+<m:mark id="1">
+<m:type>a</m:type>
+<m:content>&lt;a href=&quot;https://www.drupal.org/project/tmgmt_oht&quot;&gt;</m:content>
+</m:mark>
+</m:tunit-metadata>
+<m:tunit-target-metadata>
+<m:mark id="1">
+<m:type>a</m:type>
+<m:content>&lt;a href=&quot;https://www.drupal.org/project/tmgmt_oht&quot;&gt;</m:content>
+</m:mark>
+</m:tunit-target-metadata>
+<m:editing-stats>
+<m:thinking-time>735</m:thinking-time>
+<m:editing-time>735</m:editing-time>
+</m:editing-stats>
+</trans-unit>
+</group>
+</body>
+</file>
+<m:extra>
+<m:users>
+<m:user id="3" username="admin" fullname="Filip Rachunek"/>
+</m:users>
+</m:extra>
+</xliff>

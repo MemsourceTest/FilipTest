@@ -1,0 +1,1615 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns:m="http://www.memsource.com/mxlf/2.0" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2" m:version="2.3" m:level="1">
+<file original="JobID_8_JobItemID_44_en_fr.xliff" source-language="en" target-language="fr" datatype="x-undefined" m:task-id="x5oH6ODcsAxLacom_dc1">
+<body>
+<group id="0">
+<context-group>
+<context context-type="x-key">44][title][0][value</context>
+</context-group>
+<trans-unit id="x5oH6ODcsAxLacom_dc1:0" m:para-id="0" xml:space="preserve" m:trans-origin="null" m:score="0" m:gross-score="0" m:confirmed="0" m:locked="false" m:level-edited="false" m:created-by="" m:created-at="0" m:modified-by="" m:modified-at="0">
+<source>TMGMT Demo</source>
+<target></target>
+<alt-trans origin="machine-trans">
+<target></target>
+</alt-trans>
+<alt-trans origin="memsource-tm">
+<target></target>
+</alt-trans>
+<m:tunit-metadata/>
+<m:tunit-target-metadata/>
+<m:editing-stats>
+<m:thinking-time>0</m:thinking-time>
+<m:editing-time>0</m:editing-time>
+</m:editing-stats>
+</trans-unit>
+</group>
+<group id="1">
+<context-group>
+<context context-type="x-key">44][body][0][value</context>
+<context context-type="x-key-note">Note: Text (annotates: general)</context>
+</context-group>
+<trans-unit id="x5oH6ODcsAxLacom_dc1:1" m:para-id="1" xml:space="preserve" m:trans-origin="null" m:score="0" m:gross-score="0" m:confirmed="0" m:locked="false" m:level-edited="false" m:created-by="" m:created-at="0" m:modified-by="" m:modified-at="0">
+<source>&lt;p&gt;Welcome to the Translation Management Tool Demo module!&lt;/p&gt;</source>
+<target></target>
+<alt-trans origin="machine-trans">
+<target></target>
+</alt-trans>
+<alt-trans origin="memsource-tm">
+<target></target>
+</alt-trans>
+<m:tunit-metadata/>
+<m:tunit-target-metadata/>
+<m:editing-stats>
+<m:thinking-time>0</m:thinking-time>
+<m:editing-time>0</m:editing-time>
+</m:editing-stats>
+</trans-unit>
+</group>
+<group id="2">
+<context-group>
+<context context-type="x-key">44][body][0][value</context>
+<context context-type="x-key-note">Note: Text (annotates: general)</context>
+</context-group>
+<trans-unit id="x5oH6ODcsAxLacom_dc1:2" m:para-id="1" xml:space="preserve" m:trans-origin="null" m:score="0" m:gross-score="0" m:confirmed="0" m:locked="false" m:level-edited="false" m:created-by="" m:created-at="0" m:modified-by="" m:modified-at="0">
+<source>&lt;p&gt;The Translation Management Tool (TMGMT) demo module provides the configuration needed for translating predefined content types - &lt;a href=&quot;/drupal-8.2.1/admin/config/regional/content-language&quot;&gt;translatable nodes&lt;/a&gt;.&lt;/p&gt;</source>
+<target></target>
+<alt-trans origin="machine-trans">
+<target></target>
+</alt-trans>
+<alt-trans origin="memsource-tm">
+<target></target>
+</alt-trans>
+<m:tunit-metadata/>
+<m:tunit-target-metadata/>
+<m:editing-stats>
+<m:thinking-time>0</m:thinking-time>
+<m:editing-time>0</m:editing-time>
+</m:editing-stats>
+</trans-unit>
+</group>
+<group id="3">
+<context-group>
+<context context-type="x-key">44][body][0][value</context>
+<context context-type="x-key-note">Note: Text (annotates: general)</context>
+</context-group>
+<trans-unit id="x5oH6ODcsAxLacom_dc1:3" m:para-id="1" xml:space="preserve" m:trans-origin="null" m:score="0" m:gross-score="0" m:confirmed="0" m:locked="false" m:level-edited="false" m:created-by="" m:created-at="0" m:modified-by="" m:modified-at="0">
+<source>&lt;p&gt;It enables three &lt;a href=&quot;/drupal-8.2.1/admin/config/regional/language&quot;&gt;languages&lt;/a&gt;.</source>
+<target></target>
+<alt-trans origin="machine-trans">
+<target></target>
+</alt-trans>
+<alt-trans origin="memsource-tm">
+<target></target>
+</alt-trans>
+<m:tunit-metadata/>
+<m:tunit-target-metadata/>
+<m:editing-stats>
+<m:thinking-time>0</m:thinking-time>
+<m:editing-time>0</m:editing-time>
+</m:editing-stats>
+</trans-unit>
+</group>
+<group id="4">
+<context-group>
+<context context-type="x-key">44][body][0][value</context>
+<context context-type="x-key-note">Note: Text (annotates: general)</context>
+</context-group>
+<trans-unit id="x5oH6ODcsAxLacom_dc1:4" m:para-id="1" xml:space="preserve" m:trans-origin="null" m:score="0" m:gross-score="0" m:confirmed="0" m:locked="false" m:level-edited="false" m:created-by="" m:created-at="0" m:modified-by="" m:modified-at="0">
+<source>Besides English, it supports German and French.&lt;/p&gt;</source>
+<target></target>
+<alt-trans origin="machine-trans">
+<target></target>
+</alt-trans>
+<alt-trans origin="memsource-tm">
+<target></target>
+</alt-trans>
+<m:tunit-metadata/>
+<m:tunit-target-metadata/>
+<m:editing-stats>
+<m:thinking-time>0</m:thinking-time>
+<m:editing-time>0</m:editing-time>
+</m:editing-stats>
+</trans-unit>
+</group>
+<group id="5">
+<context-group>
+<context context-type="x-key">44][body][0][value</context>
+<context context-type="x-key-note">Note: Text (annotates: general)</context>
+</context-group>
+<trans-unit id="x5oH6ODcsAxLacom_dc1:5" m:para-id="1" xml:space="preserve" m:trans-origin="null" m:score="0" m:gross-score="0" m:confirmed="0" m:locked="false" m:level-edited="false" m:created-by="" m:created-at="0" m:modified-by="" m:modified-at="0">
+<source>&lt;p&gt;Content translation is enabled by default.</source>
+<target></target>
+<alt-trans origin="machine-trans">
+<target></target>
+</alt-trans>
+<alt-trans origin="memsource-tm">
+<target></target>
+</alt-trans>
+<m:tunit-metadata/>
+<m:tunit-target-metadata/>
+<m:editing-stats>
+<m:thinking-time>0</m:thinking-time>
+<m:editing-time>0</m:editing-time>
+</m:editing-stats>
+</trans-unit>
+</group>
+<group id="6">
+<context-group>
+<context context-type="x-key">44][body][0][value</context>
+<context context-type="x-key-note">Note: Text (annotates: general)</context>
+</context-group>
+<trans-unit id="x5oH6ODcsAxLacom_dc1:6" m:para-id="1" xml:space="preserve" m:trans-origin="null" m:score="0" m:gross-score="0" m:confirmed="0" m:locked="false" m:level-edited="false" m:created-by="" m:created-at="0" m:modified-by="" m:modified-at="0">
+<source>This allows users to translate the content on their own.</source>
+<target></target>
+<alt-trans origin="machine-trans">
+<target></target>
+</alt-trans>
+<alt-trans origin="memsource-tm">
+<target></target>
+</alt-trans>
+<m:tunit-metadata/>
+<m:tunit-target-metadata/>
+<m:editing-stats>
+<m:thinking-time>0</m:thinking-time>
+<m:editing-time>0</m:editing-time>
+</m:editing-stats>
+</trans-unit>
+</group>
+<group id="7">
+<context-group>
+<context context-type="x-key">44][body][0][value</context>
+<context context-type="x-key-note">Note: Text (annotates: general)</context>
+</context-group>
+<trans-unit id="x5oH6ODcsAxLacom_dc1:7" m:para-id="1" xml:space="preserve" m:trans-origin="null" m:score="0" m:gross-score="0" m:confirmed="0" m:locked="false" m:level-edited="false" m:created-by="" m:created-at="0" m:modified-by="" m:modified-at="0">
+<source>Also, Export / Import File translator enables exporting source data into a file and import the translated in return.&lt;/p&gt;</source>
+<target></target>
+<alt-trans origin="machine-trans">
+<target></target>
+</alt-trans>
+<alt-trans origin="memsource-tm">
+<target></target>
+</alt-trans>
+<m:tunit-metadata/>
+<m:tunit-target-metadata/>
+<m:editing-stats>
+<m:thinking-time>0</m:thinking-time>
+<m:editing-time>0</m:editing-time>
+</m:editing-stats>
+</trans-unit>
+</group>
+<group id="8">
+<context-group>
+<context context-type="x-key">44][body][0][value</context>
+<context context-type="x-key-note">Note: Text (annotates: general)</context>
+</context-group>
+<trans-unit id="x5oH6ODcsAxLacom_dc1:8" m:para-id="1" xml:space="preserve" m:trans-origin="null" m:score="0" m:gross-score="0" m:confirmed="0" m:locked="false" m:level-edited="false" m:created-by="" m:created-at="0" m:modified-by="" m:modified-at="0">
+<source>&lt;ul&gt;</source>
+<target></target>
+<alt-trans origin="machine-trans">
+<target></target>
+</alt-trans>
+<alt-trans origin="memsource-tm">
+<target></target>
+</alt-trans>
+<m:tunit-metadata/>
+<m:tunit-target-metadata/>
+<m:editing-stats>
+<m:thinking-time>0</m:thinking-time>
+<m:editing-time>0</m:editing-time>
+</m:editing-stats>
+</trans-unit>
+</group>
+<group id="9">
+<context-group>
+<context context-type="x-key">44][body][0][value</context>
+<context context-type="x-key-note">Note: Text (annotates: general)</context>
+</context-group>
+<trans-unit id="x5oH6ODcsAxLacom_dc1:9" m:para-id="1" xml:space="preserve" m:trans-origin="null" m:score="0" m:gross-score="0" m:confirmed="0" m:locked="false" m:level-edited="false" m:created-by="" m:created-at="0" m:modified-by="" m:modified-at="0">
+<source>&lt;li&gt;&lt;span&gt;To get started with the translation, two &lt;a href=&quot;/drupal-8.2.1/admin/content&quot;&gt;translatable nodes&lt;/a&gt; are created.</source>
+<target></target>
+<alt-trans origin="machine-trans">
+<target></target>
+</alt-trans>
+<alt-trans origin="memsource-tm">
+<target></target>
+</alt-trans>
+<m:tunit-metadata/>
+<m:tunit-target-metadata/>
+<m:editing-stats>
+<m:thinking-time>0</m:thinking-time>
+<m:editing-time>0</m:editing-time>
+</m:editing-stats>
+</trans-unit>
+</group>
+<group id="10">
+<context-group>
+<context context-type="x-key">44][body][0][value</context>
+<context context-type="x-key-note">Note: Text (annotates: general)</context>
+</context-group>
+<trans-unit id="x5oH6ODcsAxLacom_dc1:10" m:para-id="1" xml:space="preserve" m:trans-origin="null" m:score="0" m:gross-score="0" m:confirmed="0" m:locked="false" m:level-edited="false" m:created-by="" m:created-at="0" m:modified-by="" m:modified-at="0">
+<source>The steps for translation are the following:&lt;/span&gt;</source>
+<target></target>
+<alt-trans origin="machine-trans">
+<target></target>
+</alt-trans>
+<alt-trans origin="memsource-tm">
+<target></target>
+</alt-trans>
+<m:tunit-metadata/>
+<m:tunit-target-metadata/>
+<m:editing-stats>
+<m:thinking-time>0</m:thinking-time>
+<m:editing-time>0</m:editing-time>
+</m:editing-stats>
+</trans-unit>
+</group>
+<group id="11">
+<context-group>
+<context context-type="x-key">44][body][0][value</context>
+<context context-type="x-key-note">Note: Text (annotates: general)</context>
+</context-group>
+<trans-unit id="x5oH6ODcsAxLacom_dc1:11" m:para-id="1" xml:space="preserve" m:trans-origin="null" m:score="0" m:gross-score="0" m:confirmed="0" m:locked="false" m:level-edited="false" m:created-by="" m:created-at="0" m:modified-by="" m:modified-at="0">
+<source>&lt;ul&gt;</source>
+<target></target>
+<alt-trans origin="machine-trans">
+<target></target>
+</alt-trans>
+<alt-trans origin="memsource-tm">
+<target></target>
+</alt-trans>
+<m:tunit-metadata/>
+<m:tunit-target-metadata/>
+<m:editing-stats>
+<m:thinking-time>0</m:thinking-time>
+<m:editing-time>0</m:editing-time>
+</m:editing-stats>
+</trans-unit>
+</group>
+<group id="12">
+<context-group>
+<context context-type="x-key">44][body][0][value</context>
+<context context-type="x-key-note">Note: Text (annotates: general)</context>
+</context-group>
+<trans-unit id="x5oH6ODcsAxLacom_dc1:12" m:para-id="1" xml:space="preserve" m:trans-origin="null" m:score="0" m:gross-score="0" m:confirmed="0" m:locked="false" m:level-edited="false" m:created-by="" m:created-at="0" m:modified-by="" m:modified-at="0">
+<source>&lt;li&gt;On the node detail view use the &lt;a href=&quot;/drupal-8.2.1/node/3/translations&quot;&gt;&quot;translate&quot; Tab&lt;/a&gt;, choose a language and click &quot;Request Translation&quot; to get started.&lt;/li&gt;</source>
+<target></target>
+<alt-trans origin="machine-trans">
+<target></target>
+</alt-trans>
+<alt-trans origin="memsource-tm">
+<target></target>
+</alt-trans>
+<m:tunit-metadata/>
+<m:tunit-target-metadata/>
+<m:editing-stats>
+<m:thinking-time>0</m:thinking-time>
+<m:editing-time>0</m:editing-time>
+</m:editing-stats>
+</trans-unit>
+</group>
+<group id="13">
+<context-group>
+<context context-type="x-key">44][body][0][value</context>
+<context context-type="x-key-note">Note: Text (annotates: general)</context>
+</context-group>
+<trans-unit id="x5oH6ODcsAxLacom_dc1:13" m:para-id="1" xml:space="preserve" m:trans-origin="null" m:score="0" m:gross-score="0" m:confirmed="0" m:locked="false" m:level-edited="false" m:created-by="" m:created-at="0" m:modified-by="" m:modified-at="0">
+<source>&lt;li&gt;After submitting the job, the status is changed to &quot;In progress&quot;.</source>
+<target></target>
+<alt-trans origin="machine-trans">
+<target></target>
+</alt-trans>
+<alt-trans origin="memsource-tm">
+<target></target>
+</alt-trans>
+<m:tunit-metadata/>
+<m:tunit-target-metadata/>
+<m:editing-stats>
+<m:thinking-time>0</m:thinking-time>
+<m:editing-time>0</m:editing-time>
+</m:editing-stats>
+</trans-unit>
+</group>
+<group id="14">
+<context-group>
+<context context-type="x-key">44][body][0][value</context>
+<context context-type="x-key-note">Note: Text (annotates: general)</context>
+</context-group>
+<trans-unit id="x5oH6ODcsAxLacom_dc1:14" m:para-id="1" xml:space="preserve" m:trans-origin="null" m:score="0" m:gross-score="0" m:confirmed="0" m:locked="false" m:level-edited="false" m:created-by="" m:created-at="0" m:modified-by="" m:modified-at="0">
+<source>In case of a machine translator, the translation is immediately returned.</source>
+<target></target>
+<alt-trans origin="machine-trans">
+<target></target>
+</alt-trans>
+<alt-trans origin="memsource-tm">
+<target></target>
+</alt-trans>
+<m:tunit-metadata/>
+<m:tunit-target-metadata/>
+<m:editing-stats>
+<m:thinking-time>0</m:thinking-time>
+<m:editing-time>0</m:editing-time>
+</m:editing-stats>
+</trans-unit>
+</group>
+<group id="15">
+<context-group>
+<context context-type="x-key">44][body][0][value</context>
+<context context-type="x-key-note">Note: Text (annotates: general)</context>
+</context-group>
+<trans-unit id="x5oH6ODcsAxLacom_dc1:15" m:para-id="1" xml:space="preserve" m:trans-origin="null" m:score="0" m:gross-score="0" m:confirmed="0" m:locked="false" m:level-edited="false" m:created-by="" m:created-at="0" m:modified-by="" m:modified-at="0">
+<source>The status is then &quot;Needs review&quot;.&lt;/li&gt;</source>
+<target></target>
+<alt-trans origin="machine-trans">
+<target></target>
+</alt-trans>
+<alt-trans origin="memsource-tm">
+<target></target>
+</alt-trans>
+<m:tunit-metadata/>
+<m:tunit-target-metadata/>
+<m:editing-stats>
+<m:thinking-time>0</m:thinking-time>
+<m:editing-time>0</m:editing-time>
+</m:editing-stats>
+</trans-unit>
+</group>
+<group id="16">
+<context-group>
+<context context-type="x-key">44][body][0][value</context>
+<context context-type="x-key-note">Note: Text (annotates: general)</context>
+</context-group>
+<trans-unit id="x5oH6ODcsAxLacom_dc1:16" m:para-id="1" xml:space="preserve" m:trans-origin="null" m:score="0" m:gross-score="0" m:confirmed="0" m:locked="false" m:level-edited="false" m:created-by="" m:created-at="0" m:modified-by="" m:modified-at="0">
+<source>&lt;li&gt;&quot;In progress&quot; is the state where we are awaiting the translations from the translator.&lt;/li&gt;</source>
+<target></target>
+<alt-trans origin="machine-trans">
+<target></target>
+</alt-trans>
+<alt-trans origin="memsource-tm">
+<target></target>
+</alt-trans>
+<m:tunit-metadata/>
+<m:tunit-target-metadata/>
+<m:editing-stats>
+<m:thinking-time>0</m:thinking-time>
+<m:editing-time>0</m:editing-time>
+</m:editing-stats>
+</trans-unit>
+</group>
+<group id="17">
+<context-group>
+<context context-type="x-key">44][body][0][value</context>
+<context context-type="x-key-note">Note: Text (annotates: general)</context>
+</context-group>
+<trans-unit id="x5oH6ODcsAxLacom_dc1:17" m:para-id="1" xml:space="preserve" m:trans-origin="null" m:score="0" m:gross-score="0" m:confirmed="0" m:locked="false" m:level-edited="false" m:created-by="" m:created-at="0" m:modified-by="" m:modified-at="0">
+<source>&lt;li&gt;Once the translations are provided by the translator, we can review the job items (and correct) the translated content.</source>
+<target></target>
+<alt-trans origin="machine-trans">
+<target></target>
+</alt-trans>
+<alt-trans origin="memsource-tm">
+<target></target>
+</alt-trans>
+<m:tunit-metadata/>
+<m:tunit-target-metadata/>
+<m:editing-stats>
+<m:thinking-time>0</m:thinking-time>
+<m:editing-time>0</m:editing-time>
+</m:editing-stats>
+</trans-unit>
+</group>
+<group id="18">
+<context-group>
+<context context-type="x-key">44][body][0][value</context>
+<context context-type="x-key-note">Note: Text (annotates: general)</context>
+</context-group>
+<trans-unit id="x5oH6ODcsAxLacom_dc1:18" m:para-id="1" xml:space="preserve" m:trans-origin="null" m:score="0" m:gross-score="0" m:confirmed="0" m:locked="false" m:level-edited="false" m:created-by="" m:created-at="0" m:modified-by="" m:modified-at="0">
+<source>Some translators support feedback cycles.</source>
+<target></target>
+<alt-trans origin="machine-trans">
+<target></target>
+</alt-trans>
+<alt-trans origin="memsource-tm">
+<target></target>
+</alt-trans>
+<m:tunit-metadata/>
+<m:tunit-target-metadata/>
+<m:editing-stats>
+<m:thinking-time>0</m:thinking-time>
+<m:editing-time>0</m:editing-time>
+</m:editing-stats>
+</trans-unit>
+</group>
+<group id="19">
+<context-group>
+<context context-type="x-key">44][body][0][value</context>
+<context context-type="x-key-note">Note: Text (annotates: general)</context>
+</context-group>
+<trans-unit id="x5oH6ODcsAxLacom_dc1:19" m:para-id="1" xml:space="preserve" m:trans-origin="null" m:score="0" m:gross-score="0" m:confirmed="0" m:locked="false" m:level-edited="false" m:created-by="" m:created-at="0" m:modified-by="" m:modified-at="0">
+<source>We can send an item that needs a better translation back to the translator with some comments.</source>
+<target></target>
+<alt-trans origin="machine-trans">
+<target></target>
+</alt-trans>
+<alt-trans origin="memsource-tm">
+<target></target>
+</alt-trans>
+<m:tunit-metadata/>
+<m:tunit-target-metadata/>
+<m:editing-stats>
+<m:thinking-time>0</m:thinking-time>
+<m:editing-time>0</m:editing-time>
+</m:editing-stats>
+</trans-unit>
+</group>
+<group id="20">
+<context-group>
+<context context-type="x-key">44][body][0][value</context>
+<context context-type="x-key-note">Note: Text (annotates: general)</context>
+</context-group>
+<trans-unit id="x5oH6ODcsAxLacom_dc1:20" m:para-id="1" xml:space="preserve" m:trans-origin="null" m:score="0" m:gross-score="0" m:confirmed="0" m:locked="false" m:level-edited="false" m:created-by="" m:created-at="0" m:modified-by="" m:modified-at="0">
+<source>If the translation is fine, we can accept the job items (or the job).</source>
+<target></target>
+<alt-trans origin="machine-trans">
+<target></target>
+</alt-trans>
+<alt-trans origin="memsource-tm">
+<target></target>
+</alt-trans>
+<m:tunit-metadata/>
+<m:tunit-target-metadata/>
+<m:editing-stats>
+<m:thinking-time>0</m:thinking-time>
+<m:editing-time>0</m:editing-time>
+</m:editing-stats>
+</trans-unit>
+</group>
+<group id="21">
+<context-group>
+<context context-type="x-key">44][body][0][value</context>
+<context context-type="x-key-note">Note: Text (annotates: general)</context>
+</context-group>
+<trans-unit id="x5oH6ODcsAxLacom_dc1:21" m:para-id="1" xml:space="preserve" m:trans-origin="null" m:score="0" m:gross-score="0" m:confirmed="0" m:locked="false" m:level-edited="false" m:created-by="" m:created-at="0" m:modified-by="" m:modified-at="0">
+<source>This is when the source items are updated/the translation is created.&lt;/li&gt;</source>
+<target></target>
+<alt-trans origin="machine-trans">
+<target></target>
+</alt-trans>
+<alt-trans origin="memsource-tm">
+<target></target>
+</alt-trans>
+<m:tunit-metadata/>
+<m:tunit-target-metadata/>
+<m:editing-stats>
+<m:thinking-time>0</m:thinking-time>
+<m:editing-time>0</m:editing-time>
+</m:editing-stats>
+</trans-unit>
+</group>
+<group id="22">
+<context-group>
+<context context-type="x-key">44][body][0][value</context>
+<context context-type="x-key-note">Note: Text (annotates: general)</context>
+</context-group>
+<trans-unit id="x5oH6ODcsAxLacom_dc1:22" m:para-id="1" xml:space="preserve" m:trans-origin="null" m:score="0" m:gross-score="0" m:confirmed="0" m:locked="false" m:level-edited="false" m:created-by="" m:created-at="0" m:modified-by="" m:modified-at="0">
+<source>&lt;li&gt;The job is finally in the state of being published&lt;/li&gt;</source>
+<target></target>
+<alt-trans origin="machine-trans">
+<target></target>
+</alt-trans>
+<alt-trans origin="memsource-tm">
+<target></target>
+</alt-trans>
+<m:tunit-metadata/>
+<m:tunit-target-metadata/>
+<m:editing-stats>
+<m:thinking-time>0</m:thinking-time>
+<m:editing-time>0</m:editing-time>
+</m:editing-stats>
+</trans-unit>
+</group>
+<group id="23">
+<context-group>
+<context context-type="x-key">44][body][0][value</context>
+<context context-type="x-key-note">Note: Text (annotates: general)</context>
+</context-group>
+<trans-unit id="x5oH6ODcsAxLacom_dc1:23" m:para-id="1" xml:space="preserve" m:trans-origin="null" m:score="0" m:gross-score="0" m:confirmed="0" m:locked="false" m:level-edited="false" m:created-by="" m:created-at="0" m:modified-by="" m:modified-at="0">
+<source>&lt;/ul&gt;</source>
+<target></target>
+<alt-trans origin="machine-trans">
+<target></target>
+</alt-trans>
+<alt-trans origin="memsource-tm">
+<target></target>
+</alt-trans>
+<m:tunit-metadata/>
+<m:tunit-target-metadata/>
+<m:editing-stats>
+<m:thinking-time>0</m:thinking-time>
+<m:editing-time>0</m:editing-time>
+</m:editing-stats>
+</trans-unit>
+</group>
+<group id="24">
+<context-group>
+<context context-type="x-key">44][body][0][value</context>
+<context context-type="x-key-note">Note: Text (annotates: general)</context>
+</context-group>
+<trans-unit id="x5oH6ODcsAxLacom_dc1:24" m:para-id="1" xml:space="preserve" m:trans-origin="null" m:score="0" m:gross-score="0" m:confirmed="0" m:locked="false" m:level-edited="false" m:created-by="" m:created-at="0" m:modified-by="" m:modified-at="0">
+<source>&lt;/li&gt;</source>
+<target></target>
+<alt-trans origin="machine-trans">
+<target></target>
+</alt-trans>
+<alt-trans origin="memsource-tm">
+<target></target>
+</alt-trans>
+<m:tunit-metadata/>
+<m:tunit-target-metadata/>
+<m:editing-stats>
+<m:thinking-time>0</m:thinking-time>
+<m:editing-time>0</m:editing-time>
+</m:editing-stats>
+</trans-unit>
+</group>
+<group id="25">
+<context-group>
+<context context-type="x-key">44][body][0][value</context>
+<context context-type="x-key-note">Note: Text (annotates: general)</context>
+</context-group>
+<trans-unit id="x5oH6ODcsAxLacom_dc1:25" m:para-id="1" xml:space="preserve" m:trans-origin="null" m:score="0" m:gross-score="0" m:confirmed="0" m:locked="false" m:level-edited="false" m:created-by="" m:created-at="0" m:modified-by="" m:modified-at="0">
+<source>&lt;/ul&gt;</source>
+<target></target>
+<alt-trans origin="machine-trans">
+<target></target>
+</alt-trans>
+<alt-trans origin="memsource-tm">
+<target></target>
+</alt-trans>
+<m:tunit-metadata/>
+<m:tunit-target-metadata/>
+<m:editing-stats>
+<m:thinking-time>0</m:thinking-time>
+<m:editing-time>0</m:editing-time>
+</m:editing-stats>
+</trans-unit>
+</group>
+<group id="26">
+<context-group>
+<context context-type="x-key">44][body][0][value</context>
+<context context-type="x-key-note">Note: Text (annotates: general)</context>
+</context-group>
+<trans-unit id="x5oH6ODcsAxLacom_dc1:26" m:para-id="1" xml:space="preserve" m:trans-origin="null" m:score="0" m:gross-score="0" m:confirmed="0" m:locked="false" m:level-edited="false" m:created-by="" m:created-at="0" m:modified-by="" m:modified-at="0">
+<source>&lt;ul&gt;</source>
+<target></target>
+<alt-trans origin="machine-trans">
+<target></target>
+</alt-trans>
+<alt-trans origin="memsource-tm">
+<target></target>
+</alt-trans>
+<m:tunit-metadata/>
+<m:tunit-target-metadata/>
+<m:editing-stats>
+<m:thinking-time>0</m:thinking-time>
+<m:editing-time>0</m:editing-time>
+</m:editing-stats>
+</trans-unit>
+</group>
+<group id="27">
+<context-group>
+<context context-type="x-key">44][body][0][value</context>
+<context context-type="x-key-note">Note: Text (annotates: general)</context>
+</context-group>
+<trans-unit id="x5oH6ODcsAxLacom_dc1:27" m:para-id="1" xml:space="preserve" m:trans-origin="null" m:score="0" m:gross-score="0" m:confirmed="0" m:locked="false" m:level-edited="false" m:created-by="" m:created-at="0" m:modified-by="" m:modified-at="0">
+<source>&lt;li&gt;&lt;span&gt;In the TMGMT demo module the &lt;a href=&quot;/drupal-8.2.1/admin/config/regional/tmgmt_translator/manage/file&quot;&gt;File translator&lt;/a&gt; is enabled by default.</source>
+<target></target>
+<alt-trans origin="machine-trans">
+<target></target>
+</alt-trans>
+<alt-trans origin="memsource-tm">
+<target></target>
+</alt-trans>
+<m:tunit-metadata/>
+<m:tunit-target-metadata/>
+<m:editing-stats>
+<m:thinking-time>0</m:thinking-time>
+<m:editing-time>0</m:editing-time>
+</m:editing-stats>
+</trans-unit>
+</group>
+<group id="28">
+<context-group>
+<context context-type="x-key">44][body][0][value</context>
+<context context-type="x-key-note">Note: Text (annotates: general)</context>
+</context-group>
+<trans-unit id="x5oH6ODcsAxLacom_dc1:28" m:para-id="1" xml:space="preserve" m:trans-origin="null" m:score="0" m:gross-score="0" m:confirmed="0" m:locked="false" m:level-edited="false" m:created-by="" m:created-at="0" m:modified-by="" m:modified-at="0">
+<source>It allows users to export and import texts via xliff and HTML.</source>
+<target></target>
+<alt-trans origin="machine-trans">
+<target></target>
+</alt-trans>
+<alt-trans origin="memsource-tm">
+<target></target>
+</alt-trans>
+<m:tunit-metadata/>
+<m:tunit-target-metadata/>
+<m:editing-stats>
+<m:thinking-time>0</m:thinking-time>
+<m:editing-time>0</m:editing-time>
+</m:editing-stats>
+</trans-unit>
+</group>
+<group id="29">
+<context-group>
+<context context-type="x-key">44][body][0][value</context>
+<context context-type="x-key-note">Note: Text (annotates: general)</context>
+</context-group>
+<trans-unit id="x5oH6ODcsAxLacom_dc1:29" m:para-id="1" xml:space="preserve" m:trans-origin="null" m:score="0" m:gross-score="0" m:confirmed="0" m:locked="false" m:level-edited="false" m:created-by="" m:created-at="0" m:modified-by="" m:modified-at="0">
+<source>The workflow is the following:&lt;/span&gt;</source>
+<target></target>
+<alt-trans origin="machine-trans">
+<target></target>
+</alt-trans>
+<alt-trans origin="memsource-tm">
+<target></target>
+</alt-trans>
+<m:tunit-metadata/>
+<m:tunit-target-metadata/>
+<m:editing-stats>
+<m:thinking-time>0</m:thinking-time>
+<m:editing-time>0</m:editing-time>
+</m:editing-stats>
+</trans-unit>
+</group>
+<group id="30">
+<context-group>
+<context context-type="x-key">44][body][0][value</context>
+<context context-type="x-key-note">Note: Text (annotates: general)</context>
+</context-group>
+<trans-unit id="x5oH6ODcsAxLacom_dc1:30" m:para-id="1" xml:space="preserve" m:trans-origin="null" m:score="0" m:gross-score="0" m:confirmed="0" m:locked="false" m:level-edited="false" m:created-by="" m:created-at="0" m:modified-by="" m:modified-at="0">
+<source>&lt;ul&gt;</source>
+<target></target>
+<alt-trans origin="machine-trans">
+<target></target>
+</alt-trans>
+<alt-trans origin="memsource-tm">
+<target></target>
+</alt-trans>
+<m:tunit-metadata/>
+<m:tunit-target-metadata/>
+<m:editing-stats>
+<m:thinking-time>0</m:thinking-time>
+<m:editing-time>0</m:editing-time>
+</m:editing-stats>
+</trans-unit>
+</group>
+<group id="31">
+<context-group>
+<context context-type="x-key">44][body][0][value</context>
+<context context-type="x-key-note">Note: Text (annotates: general)</context>
+</context-group>
+<trans-unit id="x5oH6ODcsAxLacom_dc1:31" m:para-id="1" xml:space="preserve" m:trans-origin="null" m:score="0" m:gross-score="0" m:confirmed="0" m:locked="false" m:level-edited="false" m:created-by="" m:created-at="0" m:modified-by="" m:modified-at="0">
+<source>&lt;li&gt;Submit a job to the File translator.</source>
+<target></target>
+<alt-trans origin="machine-trans">
+<target></target>
+</alt-trans>
+<alt-trans origin="memsource-tm">
+<target></target>
+</alt-trans>
+<m:tunit-metadata/>
+<m:tunit-target-metadata/>
+<m:editing-stats>
+<m:thinking-time>0</m:thinking-time>
+<m:editing-time>0</m:editing-time>
+</m:editing-stats>
+</trans-unit>
+</group>
+<group id="32">
+<context-group>
+<context context-type="x-key">44][body][0][value</context>
+<context context-type="x-key-note">Note: Text (annotates: general)</context>
+</context-group>
+<trans-unit id="x5oH6ODcsAxLacom_dc1:32" m:para-id="1" xml:space="preserve" m:trans-origin="null" m:score="0" m:gross-score="0" m:confirmed="0" m:locked="false" m:level-edited="false" m:created-by="" m:created-at="0" m:modified-by="" m:modified-at="0">
+<source>The job is in &quot;active&quot; state.&lt;/li&gt;</source>
+<target></target>
+<alt-trans origin="machine-trans">
+<target></target>
+</alt-trans>
+<alt-trans origin="memsource-tm">
+<target></target>
+</alt-trans>
+<m:tunit-metadata/>
+<m:tunit-target-metadata/>
+<m:editing-stats>
+<m:thinking-time>0</m:thinking-time>
+<m:editing-time>0</m:editing-time>
+</m:editing-stats>
+</trans-unit>
+</group>
+<group id="33">
+<context-group>
+<context context-type="x-key">44][body][0][value</context>
+<context context-type="x-key-note">Note: Text (annotates: general)</context>
+</context-group>
+<trans-unit id="x5oH6ODcsAxLacom_dc1:33" m:para-id="1" xml:space="preserve" m:trans-origin="null" m:score="0" m:gross-score="0" m:confirmed="0" m:locked="false" m:level-edited="false" m:created-by="" m:created-at="0" m:modified-by="" m:modified-at="0">
+<source>&lt;li&gt;Export it as HTML/XLIFF format.&lt;/li&gt;</source>
+<target></target>
+<alt-trans origin="machine-trans">
+<target></target>
+</alt-trans>
+<alt-trans origin="memsource-tm">
+<target></target>
+</alt-trans>
+<m:tunit-metadata/>
+<m:tunit-target-metadata/>
+<m:editing-stats>
+<m:thinking-time>0</m:thinking-time>
+<m:editing-time>0</m:editing-time>
+</m:editing-stats>
+</trans-unit>
+</group>
+<group id="34">
+<context-group>
+<context context-type="x-key">44][body][0][value</context>
+<context context-type="x-key-note">Note: Text (annotates: general)</context>
+</context-group>
+<trans-unit id="x5oH6ODcsAxLacom_dc1:34" m:para-id="1" xml:space="preserve" m:trans-origin="null" m:score="0" m:gross-score="0" m:confirmed="0" m:locked="false" m:level-edited="false" m:created-by="" m:created-at="0" m:modified-by="" m:modified-at="0">
+<source>&lt;li&gt;Translate the content by editing the XLIFF files in plaintext or with a proper CAT tool.&lt;/li&gt;</source>
+<target></target>
+<alt-trans origin="machine-trans">
+<target></target>
+</alt-trans>
+<alt-trans origin="memsource-tm">
+<target></target>
+</alt-trans>
+<m:tunit-metadata/>
+<m:tunit-target-metadata/>
+<m:editing-stats>
+<m:thinking-time>0</m:thinking-time>
+<m:editing-time>0</m:editing-time>
+</m:editing-stats>
+</trans-unit>
+</group>
+<group id="35">
+<context-group>
+<context context-type="x-key">44][body][0][value</context>
+<context context-type="x-key-note">Note: Text (annotates: general)</context>
+</context-group>
+<trans-unit id="x5oH6ODcsAxLacom_dc1:35" m:para-id="1" xml:space="preserve" m:trans-origin="null" m:score="0" m:gross-score="0" m:confirmed="0" m:locked="false" m:level-edited="false" m:created-by="" m:created-at="0" m:modified-by="" m:modified-at="0">
+<source>&lt;li&gt;Import it back on the site.&lt;/li&gt;</source>
+<target></target>
+<alt-trans origin="machine-trans">
+<target></target>
+</alt-trans>
+<alt-trans origin="memsource-tm">
+<target></target>
+</alt-trans>
+<m:tunit-metadata/>
+<m:tunit-target-metadata/>
+<m:editing-stats>
+<m:thinking-time>0</m:thinking-time>
+<m:editing-time>0</m:editing-time>
+</m:editing-stats>
+</trans-unit>
+</group>
+<group id="36">
+<context-group>
+<context context-type="x-key">44][body][0][value</context>
+<context context-type="x-key-note">Note: Text (annotates: general)</context>
+</context-group>
+<trans-unit id="x5oH6ODcsAxLacom_dc1:36" m:para-id="1" xml:space="preserve" m:trans-origin="null" m:score="0" m:gross-score="0" m:confirmed="0" m:locked="false" m:level-edited="false" m:created-by="" m:created-at="0" m:modified-by="" m:modified-at="0">
+<source>&lt;li&gt;Review the job items/data items.</source>
+<target></target>
+<alt-trans origin="machine-trans">
+<target></target>
+</alt-trans>
+<alt-trans origin="memsource-tm">
+<target></target>
+</alt-trans>
+<m:tunit-metadata/>
+<m:tunit-target-metadata/>
+<m:editing-stats>
+<m:thinking-time>0</m:thinking-time>
+<m:editing-time>0</m:editing-time>
+</m:editing-stats>
+</trans-unit>
+</group>
+<group id="37">
+<context-group>
+<context context-type="x-key">44][body][0][value</context>
+<context context-type="x-key-note">Note: Text (annotates: general)</context>
+</context-group>
+<trans-unit id="x5oH6ODcsAxLacom_dc1:37" m:para-id="1" xml:space="preserve" m:trans-origin="null" m:score="0" m:gross-score="0" m:confirmed="0" m:locked="false" m:level-edited="false" m:created-by="" m:created-at="0" m:modified-by="" m:modified-at="0">
+<source>XLIFF does not support a feedback loop or commenting an item.</source>
+<target></target>
+<alt-trans origin="machine-trans">
+<target></target>
+</alt-trans>
+<alt-trans origin="memsource-tm">
+<target></target>
+</alt-trans>
+<m:tunit-metadata/>
+<m:tunit-target-metadata/>
+<m:editing-stats>
+<m:thinking-time>0</m:thinking-time>
+<m:editing-time>0</m:editing-time>
+</m:editing-stats>
+</trans-unit>
+</group>
+<group id="38">
+<context-group>
+<context context-type="x-key">44][body][0][value</context>
+<context context-type="x-key-note">Note: Text (annotates: general)</context>
+</context-group>
+<trans-unit id="x5oH6ODcsAxLacom_dc1:38" m:para-id="1" xml:space="preserve" m:trans-origin="null" m:score="0" m:gross-score="0" m:confirmed="0" m:locked="false" m:level-edited="false" m:created-by="" m:created-at="0" m:modified-by="" m:modified-at="0">
+<source>Improvements/fixings can only be done by the reviewer (or by reimporting the improved XLIFF).&lt;/li&gt;</source>
+<target></target>
+<alt-trans origin="machine-trans">
+<target></target>
+</alt-trans>
+<alt-trans origin="memsource-tm">
+<target></target>
+</alt-trans>
+<m:tunit-metadata/>
+<m:tunit-target-metadata/>
+<m:editing-stats>
+<m:thinking-time>0</m:thinking-time>
+<m:editing-time>0</m:editing-time>
+</m:editing-stats>
+</trans-unit>
+</group>
+<group id="39">
+<context-group>
+<context context-type="x-key">44][body][0][value</context>
+<context context-type="x-key-note">Note: Text (annotates: general)</context>
+</context-group>
+<trans-unit id="x5oH6ODcsAxLacom_dc1:39" m:para-id="1" xml:space="preserve" m:trans-origin="null" m:score="0" m:gross-score="0" m:confirmed="0" m:locked="false" m:level-edited="false" m:created-by="" m:created-at="0" m:modified-by="" m:modified-at="0">
+<source>&lt;li&gt;Press save as completed to accept the translation and finish the process.&lt;/li&gt;</source>
+<target></target>
+<alt-trans origin="machine-trans">
+<target></target>
+</alt-trans>
+<alt-trans origin="memsource-tm">
+<target></target>
+</alt-trans>
+<m:tunit-metadata/>
+<m:tunit-target-metadata/>
+<m:editing-stats>
+<m:thinking-time>0</m:thinking-time>
+<m:editing-time>0</m:editing-time>
+</m:editing-stats>
+</trans-unit>
+</group>
+<group id="40">
+<context-group>
+<context context-type="x-key">44][body][0][value</context>
+<context context-type="x-key-note">Note: Text (annotates: general)</context>
+</context-group>
+<trans-unit id="x5oH6ODcsAxLacom_dc1:40" m:para-id="1" xml:space="preserve" m:trans-origin="null" m:score="0" m:gross-score="0" m:confirmed="0" m:locked="false" m:level-edited="false" m:created-by="" m:created-at="0" m:modified-by="" m:modified-at="0">
+<source>&lt;/ul&gt;</source>
+<target></target>
+<alt-trans origin="machine-trans">
+<target></target>
+</alt-trans>
+<alt-trans origin="memsource-tm">
+<target></target>
+</alt-trans>
+<m:tunit-metadata/>
+<m:tunit-target-metadata/>
+<m:editing-stats>
+<m:thinking-time>0</m:thinking-time>
+<m:editing-time>0</m:editing-time>
+</m:editing-stats>
+</trans-unit>
+</group>
+<group id="41">
+<context-group>
+<context context-type="x-key">44][body][0][value</context>
+<context context-type="x-key-note">Note: Text (annotates: general)</context>
+</context-group>
+<trans-unit id="x5oH6ODcsAxLacom_dc1:41" m:para-id="1" xml:space="preserve" m:trans-origin="null" m:score="0" m:gross-score="0" m:confirmed="0" m:locked="false" m:level-edited="false" m:created-by="" m:created-at="0" m:modified-by="" m:modified-at="0">
+<source>&lt;/li&gt;</source>
+<target></target>
+<alt-trans origin="machine-trans">
+<target></target>
+</alt-trans>
+<alt-trans origin="memsource-tm">
+<target></target>
+</alt-trans>
+<m:tunit-metadata/>
+<m:tunit-target-metadata/>
+<m:editing-stats>
+<m:thinking-time>0</m:thinking-time>
+<m:editing-time>0</m:editing-time>
+</m:editing-stats>
+</trans-unit>
+</group>
+<group id="42">
+<context-group>
+<context context-type="x-key">44][body][0][value</context>
+<context context-type="x-key-note">Note: Text (annotates: general)</context>
+</context-group>
+<trans-unit id="x5oH6ODcsAxLacom_dc1:42" m:para-id="1" xml:space="preserve" m:trans-origin="null" m:score="0" m:gross-score="0" m:confirmed="0" m:locked="false" m:level-edited="false" m:created-by="" m:created-at="0" m:modified-by="" m:modified-at="0">
+<source>&lt;/ul&gt;</source>
+<target></target>
+<alt-trans origin="machine-trans">
+<target></target>
+</alt-trans>
+<alt-trans origin="memsource-tm">
+<target></target>
+</alt-trans>
+<m:tunit-metadata/>
+<m:tunit-target-metadata/>
+<m:editing-stats>
+<m:thinking-time>0</m:thinking-time>
+<m:editing-time>0</m:editing-time>
+</m:editing-stats>
+</trans-unit>
+</group>
+<group id="43">
+<context-group>
+<context context-type="x-key">44][body][0][value</context>
+<context context-type="x-key-note">Note: Text (annotates: general)</context>
+</context-group>
+<trans-unit id="x5oH6ODcsAxLacom_dc1:43" m:para-id="1" xml:space="preserve" m:trans-origin="null" m:score="0" m:gross-score="0" m:confirmed="0" m:locked="false" m:level-edited="false" m:created-by="" m:created-at="0" m:modified-by="" m:modified-at="0">
+<source>&lt;ul&gt;</source>
+<target></target>
+<alt-trans origin="machine-trans">
+<target></target>
+</alt-trans>
+<alt-trans origin="memsource-tm">
+<target></target>
+</alt-trans>
+<m:tunit-metadata/>
+<m:tunit-target-metadata/>
+<m:editing-stats>
+<m:thinking-time>0</m:thinking-time>
+<m:editing-time>0</m:editing-time>
+</m:editing-stats>
+</trans-unit>
+</group>
+<group id="44">
+<context-group>
+<context context-type="x-key">44][body][0][value</context>
+<context context-type="x-key-note">Note: Text (annotates: general)</context>
+</context-group>
+<trans-unit id="x5oH6ODcsAxLacom_dc1:44" m:para-id="1" xml:space="preserve" m:trans-origin="null" m:score="0" m:gross-score="0" m:confirmed="0" m:locked="false" m:level-edited="false" m:created-by="" m:created-at="0" m:modified-by="" m:modified-at="0">
+<source>&lt;li&gt;&lt;span&gt;In the TMGMT demo module the &lt;a href=&quot;/drupal-8.2.1/admin/config/regional/tmgmt_translator/manage/local&quot;&gt;Drupal user&lt;/a&gt; provider is also enabled by default.</source>
+<target></target>
+<alt-trans origin="machine-trans">
+<target></target>
+</alt-trans>
+<alt-trans origin="memsource-tm">
+<target></target>
+</alt-trans>
+<m:tunit-metadata/>
+<m:tunit-target-metadata/>
+<m:editing-stats>
+<m:thinking-time>0</m:thinking-time>
+<m:editing-time>0</m:editing-time>
+</m:editing-stats>
+</trans-unit>
+</group>
+<group id="45">
+<context-group>
+<context context-type="x-key">44][body][0][value</context>
+<context context-type="x-key-note">Note: Text (annotates: general)</context>
+</context-group>
+<trans-unit id="x5oH6ODcsAxLacom_dc1:45" m:para-id="1" xml:space="preserve" m:trans-origin="null" m:score="0" m:gross-score="0" m:confirmed="0" m:locked="false" m:level-edited="false" m:created-by="" m:created-at="0" m:modified-by="" m:modified-at="0">
+<source>It allows to assign translation tasks to the users of the site that have the abilities to translate it (The demo adds all the abilities to all the users).</source>
+<target></target>
+<alt-trans origin="machine-trans">
+<target></target>
+</alt-trans>
+<alt-trans origin="memsource-tm">
+<target></target>
+</alt-trans>
+<m:tunit-metadata/>
+<m:tunit-target-metadata/>
+<m:editing-stats>
+<m:thinking-time>0</m:thinking-time>
+<m:editing-time>0</m:editing-time>
+</m:editing-stats>
+</trans-unit>
+</group>
+<group id="46">
+<context-group>
+<context context-type="x-key">44][body][0][value</context>
+<context context-type="x-key-note">Note: Text (annotates: general)</context>
+</context-group>
+<trans-unit id="x5oH6ODcsAxLacom_dc1:46" m:para-id="1" xml:space="preserve" m:trans-origin="null" m:score="0" m:gross-score="0" m:confirmed="0" m:locked="false" m:level-edited="false" m:created-by="" m:created-at="0" m:modified-by="" m:modified-at="0">
+<source>The workflow is the following:&lt;/span&gt;</source>
+<target></target>
+<alt-trans origin="machine-trans">
+<target></target>
+</alt-trans>
+<alt-trans origin="memsource-tm">
+<target></target>
+</alt-trans>
+<m:tunit-metadata/>
+<m:tunit-target-metadata/>
+<m:editing-stats>
+<m:thinking-time>0</m:thinking-time>
+<m:editing-time>0</m:editing-time>
+</m:editing-stats>
+</trans-unit>
+</group>
+<group id="47">
+<context-group>
+<context context-type="x-key">44][body][0][value</context>
+<context context-type="x-key-note">Note: Text (annotates: general)</context>
+</context-group>
+<trans-unit id="x5oH6ODcsAxLacom_dc1:47" m:para-id="1" xml:space="preserve" m:trans-origin="null" m:score="0" m:gross-score="0" m:confirmed="0" m:locked="false" m:level-edited="false" m:created-by="" m:created-at="0" m:modified-by="" m:modified-at="0">
+<source>&lt;ul&gt;</source>
+<target></target>
+<alt-trans origin="machine-trans">
+<target></target>
+</alt-trans>
+<alt-trans origin="memsource-tm">
+<target></target>
+</alt-trans>
+<m:tunit-metadata/>
+<m:tunit-target-metadata/>
+<m:editing-stats>
+<m:thinking-time>0</m:thinking-time>
+<m:editing-time>0</m:editing-time>
+</m:editing-stats>
+</trans-unit>
+</group>
+<group id="48">
+<context-group>
+<context context-type="x-key">44][body][0][value</context>
+<context context-type="x-key-note">Note: Text (annotates: general)</context>
+</context-group>
+<trans-unit id="x5oH6ODcsAxLacom_dc1:48" m:para-id="1" xml:space="preserve" m:trans-origin="null" m:score="0" m:gross-score="0" m:confirmed="0" m:locked="false" m:level-edited="false" m:created-by="" m:created-at="0" m:modified-by="" m:modified-at="0">
+<source>&lt;li&gt;Submit a job to the Drupal user provider and select translator for the job.</source>
+<target></target>
+<alt-trans origin="machine-trans">
+<target></target>
+</alt-trans>
+<alt-trans origin="memsource-tm">
+<target></target>
+</alt-trans>
+<m:tunit-metadata/>
+<m:tunit-target-metadata/>
+<m:editing-stats>
+<m:thinking-time>0</m:thinking-time>
+<m:editing-time>0</m:editing-time>
+</m:editing-stats>
+</trans-unit>
+</group>
+<group id="49">
+<context-group>
+<context context-type="x-key">44][body][0][value</context>
+<context context-type="x-key-note">Note: Text (annotates: general)</context>
+</context-group>
+<trans-unit id="x5oH6ODcsAxLacom_dc1:49" m:para-id="1" xml:space="preserve" m:trans-origin="null" m:score="0" m:gross-score="0" m:confirmed="0" m:locked="false" m:level-edited="false" m:created-by="" m:created-at="0" m:modified-by="" m:modified-at="0">
+<source>The job is in &quot;active&quot; state.&lt;/li&gt;</source>
+<target></target>
+<alt-trans origin="machine-trans">
+<target></target>
+</alt-trans>
+<alt-trans origin="memsource-tm">
+<target></target>
+</alt-trans>
+<m:tunit-metadata/>
+<m:tunit-target-metadata/>
+<m:editing-stats>
+<m:thinking-time>0</m:thinking-time>
+<m:editing-time>0</m:editing-time>
+</m:editing-stats>
+</trans-unit>
+</group>
+<group id="50">
+<context-group>
+<context context-type="x-key">44][body][0][value</context>
+<context context-type="x-key-note">Note: Text (annotates: general)</context>
+</context-group>
+<trans-unit id="x5oH6ODcsAxLacom_dc1:50" m:para-id="1" xml:space="preserve" m:trans-origin="null" m:score="0" m:gross-score="0" m:confirmed="0" m:locked="false" m:level-edited="false" m:created-by="" m:created-at="0" m:modified-by="" m:modified-at="0">
+<source>&lt;li&gt;The user will translate the task.</source>
+<target></target>
+<alt-trans origin="machine-trans">
+<target></target>
+</alt-trans>
+<alt-trans origin="memsource-tm">
+<target></target>
+</alt-trans>
+<m:tunit-metadata/>
+<m:tunit-target-metadata/>
+<m:editing-stats>
+<m:thinking-time>0</m:thinking-time>
+<m:editing-time>0</m:editing-time>
+</m:editing-stats>
+</trans-unit>
+</group>
+<group id="51">
+<context-group>
+<context context-type="x-key">44][body][0][value</context>
+<context context-type="x-key-note">Note: Text (annotates: general)</context>
+</context-group>
+<trans-unit id="x5oH6ODcsAxLacom_dc1:51" m:para-id="1" xml:space="preserve" m:trans-origin="null" m:score="0" m:gross-score="0" m:confirmed="0" m:locked="false" m:level-edited="false" m:created-by="" m:created-at="0" m:modified-by="" m:modified-at="0">
+<source>Also the task items can be reviewed.&lt;/li&gt;</source>
+<target></target>
+<alt-trans origin="machine-trans">
+<target></target>
+</alt-trans>
+<alt-trans origin="memsource-tm">
+<target></target>
+</alt-trans>
+<m:tunit-metadata/>
+<m:tunit-target-metadata/>
+<m:editing-stats>
+<m:thinking-time>0</m:thinking-time>
+<m:editing-time>0</m:editing-time>
+</m:editing-stats>
+</trans-unit>
+</group>
+<group id="52">
+<context-group>
+<context context-type="x-key">44][body][0][value</context>
+<context context-type="x-key-note">Note: Text (annotates: general)</context>
+</context-group>
+<trans-unit id="x5oH6ODcsAxLacom_dc1:52" m:para-id="1" xml:space="preserve" m:trans-origin="null" m:score="0" m:gross-score="0" m:confirmed="0" m:locked="false" m:level-edited="false" m:created-by="" m:created-at="0" m:modified-by="" m:modified-at="0">
+<source>&lt;li&gt;When the translation is done, the user will set the task as completed.&lt;/li&gt;</source>
+<target></target>
+<alt-trans origin="machine-trans">
+<target></target>
+</alt-trans>
+<alt-trans origin="memsource-tm">
+<target></target>
+</alt-trans>
+<m:tunit-metadata/>
+<m:tunit-target-metadata/>
+<m:editing-stats>
+<m:thinking-time>0</m:thinking-time>
+<m:editing-time>0</m:editing-time>
+</m:editing-stats>
+</trans-unit>
+</group>
+<group id="53">
+<context-group>
+<context context-type="x-key">44][body][0][value</context>
+<context context-type="x-key-note">Note: Text (annotates: general)</context>
+</context-group>
+<trans-unit id="x5oH6ODcsAxLacom_dc1:53" m:para-id="1" xml:space="preserve" m:trans-origin="null" m:score="0" m:gross-score="0" m:confirmed="0" m:locked="false" m:level-edited="false" m:created-by="" m:created-at="0" m:modified-by="" m:modified-at="0">
+<source>&lt;li&gt;Review the job items.</source>
+<target></target>
+<alt-trans origin="machine-trans">
+<target></target>
+</alt-trans>
+<alt-trans origin="memsource-tm">
+<target></target>
+</alt-trans>
+<m:tunit-metadata/>
+<m:tunit-target-metadata/>
+<m:editing-stats>
+<m:thinking-time>0</m:thinking-time>
+<m:editing-time>0</m:editing-time>
+</m:editing-stats>
+</trans-unit>
+</group>
+<group id="54">
+<context-group>
+<context context-type="x-key">44][body][0][value</context>
+<context context-type="x-key-note">Note: Text (annotates: general)</context>
+</context-group>
+<trans-unit id="x5oH6ODcsAxLacom_dc1:54" m:para-id="1" xml:space="preserve" m:trans-origin="null" m:score="0" m:gross-score="0" m:confirmed="0" m:locked="false" m:level-edited="false" m:created-by="" m:created-at="0" m:modified-by="" m:modified-at="0">
+<source>This translator does not support a feedback loop or commenting an item.</source>
+<target></target>
+<alt-trans origin="machine-trans">
+<target></target>
+</alt-trans>
+<alt-trans origin="memsource-tm">
+<target></target>
+</alt-trans>
+<m:tunit-metadata/>
+<m:tunit-target-metadata/>
+<m:editing-stats>
+<m:thinking-time>0</m:thinking-time>
+<m:editing-time>0</m:editing-time>
+</m:editing-stats>
+</trans-unit>
+</group>
+<group id="55">
+<context-group>
+<context context-type="x-key">44][body][0][value</context>
+<context context-type="x-key-note">Note: Text (annotates: general)</context>
+</context-group>
+<trans-unit id="x5oH6ODcsAxLacom_dc1:55" m:para-id="1" xml:space="preserve" m:trans-origin="null" m:score="0" m:gross-score="0" m:confirmed="0" m:locked="false" m:level-edited="false" m:created-by="" m:created-at="0" m:modified-by="" m:modified-at="0">
+<source>Improvements/fixings can only be done by the reviewer.&lt;/li&gt;</source>
+<target></target>
+<alt-trans origin="machine-trans">
+<target></target>
+</alt-trans>
+<alt-trans origin="memsource-tm">
+<target></target>
+</alt-trans>
+<m:tunit-metadata/>
+<m:tunit-target-metadata/>
+<m:editing-stats>
+<m:thinking-time>0</m:thinking-time>
+<m:editing-time>0</m:editing-time>
+</m:editing-stats>
+</trans-unit>
+</group>
+<group id="56">
+<context-group>
+<context context-type="x-key">44][body][0][value</context>
+<context context-type="x-key-note">Note: Text (annotates: general)</context>
+</context-group>
+<trans-unit id="x5oH6ODcsAxLacom_dc1:56" m:para-id="1" xml:space="preserve" m:trans-origin="null" m:score="0" m:gross-score="0" m:confirmed="0" m:locked="false" m:level-edited="false" m:created-by="" m:created-at="0" m:modified-by="" m:modified-at="0">
+<source>&lt;li&gt;Press save as completed to accept the translation and finish the process.&lt;/li&gt;</source>
+<target></target>
+<alt-trans origin="machine-trans">
+<target></target>
+</alt-trans>
+<alt-trans origin="memsource-tm">
+<target></target>
+</alt-trans>
+<m:tunit-metadata/>
+<m:tunit-target-metadata/>
+<m:editing-stats>
+<m:thinking-time>0</m:thinking-time>
+<m:editing-time>0</m:editing-time>
+</m:editing-stats>
+</trans-unit>
+</group>
+<group id="57">
+<context-group>
+<context context-type="x-key">44][body][0][value</context>
+<context context-type="x-key-note">Note: Text (annotates: general)</context>
+</context-group>
+<trans-unit id="x5oH6ODcsAxLacom_dc1:57" m:para-id="1" xml:space="preserve" m:trans-origin="null" m:score="0" m:gross-score="0" m:confirmed="0" m:locked="false" m:level-edited="false" m:created-by="" m:created-at="0" m:modified-by="" m:modified-at="0">
+<source>&lt;/ul&gt;</source>
+<target></target>
+<alt-trans origin="machine-trans">
+<target></target>
+</alt-trans>
+<alt-trans origin="memsource-tm">
+<target></target>
+</alt-trans>
+<m:tunit-metadata/>
+<m:tunit-target-metadata/>
+<m:editing-stats>
+<m:thinking-time>0</m:thinking-time>
+<m:editing-time>0</m:editing-time>
+</m:editing-stats>
+</trans-unit>
+</group>
+<group id="58">
+<context-group>
+<context context-type="x-key">44][body][0][value</context>
+<context context-type="x-key-note">Note: Text (annotates: general)</context>
+</context-group>
+<trans-unit id="x5oH6ODcsAxLacom_dc1:58" m:para-id="1" xml:space="preserve" m:trans-origin="null" m:score="0" m:gross-score="0" m:confirmed="0" m:locked="false" m:level-edited="false" m:created-by="" m:created-at="0" m:modified-by="" m:modified-at="0">
+<source>&lt;/li&gt;</source>
+<target></target>
+<alt-trans origin="machine-trans">
+<target></target>
+</alt-trans>
+<alt-trans origin="memsource-tm">
+<target></target>
+</alt-trans>
+<m:tunit-metadata/>
+<m:tunit-target-metadata/>
+<m:editing-stats>
+<m:thinking-time>0</m:thinking-time>
+<m:editing-time>0</m:editing-time>
+</m:editing-stats>
+</trans-unit>
+</group>
+<group id="59">
+<context-group>
+<context context-type="x-key">44][body][0][value</context>
+<context context-type="x-key-note">Note: Text (annotates: general)</context>
+</context-group>
+<trans-unit id="x5oH6ODcsAxLacom_dc1:59" m:para-id="1" xml:space="preserve" m:trans-origin="null" m:score="0" m:gross-score="0" m:confirmed="0" m:locked="false" m:level-edited="false" m:created-by="" m:created-at="0" m:modified-by="" m:modified-at="0">
+<source>&lt;/ul&gt;</source>
+<target></target>
+<alt-trans origin="machine-trans">
+<target></target>
+</alt-trans>
+<alt-trans origin="memsource-tm">
+<target></target>
+</alt-trans>
+<m:tunit-metadata/>
+<m:tunit-target-metadata/>
+<m:editing-stats>
+<m:thinking-time>0</m:thinking-time>
+<m:editing-time>0</m:editing-time>
+</m:editing-stats>
+</trans-unit>
+</group>
+<group id="60">
+<context-group>
+<context context-type="x-key">44][body][0][value</context>
+<context context-type="x-key-note">Note: Text (annotates: general)</context>
+</context-group>
+<trans-unit id="x5oH6ODcsAxLacom_dc1:60" m:para-id="1" xml:space="preserve" m:trans-origin="null" m:score="0" m:gross-score="0" m:confirmed="0" m:locked="false" m:level-edited="false" m:created-by="" m:created-at="0" m:modified-by="" m:modified-at="0">
+<source>&lt;p&gt;TMGMT demo also supports translation of paragraphs.</source>
+<target></target>
+<alt-trans origin="machine-trans">
+<target></target>
+</alt-trans>
+<alt-trans origin="memsource-tm">
+<target></target>
+</alt-trans>
+<m:tunit-metadata/>
+<m:tunit-target-metadata/>
+<m:editing-stats>
+<m:thinking-time>0</m:thinking-time>
+<m:editing-time>0</m:editing-time>
+</m:editing-stats>
+</trans-unit>
+</group>
+<group id="61">
+<context-group>
+<context context-type="x-key">44][body][0][value</context>
+<context context-type="x-key-note">Note: Text (annotates: general)</context>
+</context-group>
+<trans-unit id="x5oH6ODcsAxLacom_dc1:61" m:para-id="1" xml:space="preserve" m:trans-origin="null" m:score="0" m:gross-score="0" m:confirmed="0" m:locked="false" m:level-edited="false" m:created-by="" m:created-at="0" m:modified-by="" m:modified-at="0">
+<source>To do this, you first need to enable paragraphs_demo and tmgmt_demo after that.&lt;/p&gt;</source>
+<target></target>
+<alt-trans origin="machine-trans">
+<target></target>
+</alt-trans>
+<alt-trans origin="memsource-tm">
+<target></target>
+</alt-trans>
+<m:tunit-metadata/>
+<m:tunit-target-metadata/>
+<m:editing-stats>
+<m:thinking-time>0</m:thinking-time>
+<m:editing-time>0</m:editing-time>
+</m:editing-stats>
+</trans-unit>
+</group>
+<group id="62">
+<context-group>
+<context context-type="x-key">44][body][0][value</context>
+<context context-type="x-key-note">Note: Text (annotates: general)</context>
+</context-group>
+<trans-unit id="x5oH6ODcsAxLacom_dc1:62" m:para-id="1" xml:space="preserve" m:trans-origin="null" m:score="0" m:gross-score="0" m:confirmed="0" m:locked="false" m:level-edited="false" m:created-by="" m:created-at="0" m:modified-by="" m:modified-at="0">
+<source>&lt;ul&gt;</source>
+<target></target>
+<alt-trans origin="machine-trans">
+<target></target>
+</alt-trans>
+<alt-trans origin="memsource-tm">
+<target></target>
+</alt-trans>
+<m:tunit-metadata/>
+<m:tunit-target-metadata/>
+<m:editing-stats>
+<m:thinking-time>0</m:thinking-time>
+<m:editing-time>0</m:editing-time>
+</m:editing-stats>
+</trans-unit>
+</group>
+<group id="63">
+<context-group>
+<context context-type="x-key">44][body][0][value</context>
+<context context-type="x-key-note">Note: Text (annotates: general)</context>
+</context-group>
+<trans-unit id="x5oH6ODcsAxLacom_dc1:63" m:para-id="1" xml:space="preserve" m:trans-origin="null" m:score="0" m:gross-score="0" m:confirmed="0" m:locked="false" m:level-edited="false" m:created-by="" m:created-at="0" m:modified-by="" m:modified-at="0">
+<source>&lt;li&gt;&lt;span&gt;External translation services can be used for creating a foreign language version of the source text.</source>
+<target></target>
+<alt-trans origin="machine-trans">
+<target></target>
+</alt-trans>
+<alt-trans origin="memsource-tm">
+<target></target>
+</alt-trans>
+<m:tunit-metadata/>
+<m:tunit-target-metadata/>
+<m:editing-stats>
+<m:thinking-time>0</m:thinking-time>
+<m:editing-time>0</m:editing-time>
+</m:editing-stats>
+</trans-unit>
+</group>
+<group id="64">
+<context-group>
+<context context-type="x-key">44][body][0][value</context>
+<context context-type="x-key-note">Note: Text (annotates: general)</context>
+</context-group>
+<trans-unit id="x5oH6ODcsAxLacom_dc1:64" m:para-id="1" xml:space="preserve" m:trans-origin="null" m:score="0" m:gross-score="0" m:confirmed="0" m:locked="false" m:level-edited="false" m:created-by="" m:created-at="0" m:modified-by="" m:modified-at="0">
+<source>These are the recommended translators:&lt;/span&gt;</source>
+<target></target>
+<alt-trans origin="machine-trans">
+<target></target>
+</alt-trans>
+<alt-trans origin="memsource-tm">
+<target></target>
+</alt-trans>
+<m:tunit-metadata/>
+<m:tunit-target-metadata/>
+<m:editing-stats>
+<m:thinking-time>0</m:thinking-time>
+<m:editing-time>0</m:editing-time>
+</m:editing-stats>
+</trans-unit>
+</group>
+<group id="65">
+<context-group>
+<context context-type="x-key">44][body][0][value</context>
+<context context-type="x-key-note">Note: Text (annotates: general)</context>
+</context-group>
+<trans-unit id="x5oH6ODcsAxLacom_dc1:65" m:para-id="1" xml:space="preserve" m:trans-origin="null" m:score="0" m:gross-score="0" m:confirmed="0" m:locked="false" m:level-edited="false" m:created-by="" m:created-at="0" m:modified-by="" m:modified-at="0">
+<source>&lt;ul&gt;</source>
+<target></target>
+<alt-trans origin="machine-trans">
+<target></target>
+</alt-trans>
+<alt-trans origin="memsource-tm">
+<target></target>
+</alt-trans>
+<m:tunit-metadata/>
+<m:tunit-target-metadata/>
+<m:editing-stats>
+<m:thinking-time>0</m:thinking-time>
+<m:editing-time>0</m:editing-time>
+</m:editing-stats>
+</trans-unit>
+</group>
+<group id="66">
+<context-group>
+<context context-type="x-key">44][body][0][value</context>
+<context context-type="x-key-note">Note: Text (annotates: general)</context>
+</context-group>
+<trans-unit id="x5oH6ODcsAxLacom_dc1:66" m:para-id="1" xml:space="preserve" m:trans-origin="null" m:score="0" m:gross-score="0" m:confirmed="0" m:locked="false" m:level-edited="false" m:created-by="" m:created-at="0" m:modified-by="" m:modified-at="0">
+<source>&lt;li&gt;&lt;a href=&quot;https://www.drupal.org/project/tmgmt_microsoft&quot;&gt;Microsoft&lt;/a&gt;&lt;/li&gt;</source>
+<target></target>
+<alt-trans origin="machine-trans">
+<target></target>
+</alt-trans>
+<alt-trans origin="memsource-tm">
+<target></target>
+</alt-trans>
+<m:tunit-metadata/>
+<m:tunit-target-metadata/>
+<m:editing-stats>
+<m:thinking-time>0</m:thinking-time>
+<m:editing-time>0</m:editing-time>
+</m:editing-stats>
+</trans-unit>
+</group>
+<group id="67">
+<context-group>
+<context context-type="x-key">44][body][0][value</context>
+<context context-type="x-key-note">Note: Text (annotates: general)</context>
+</context-group>
+<trans-unit id="x5oH6ODcsAxLacom_dc1:67" m:para-id="1" xml:space="preserve" m:trans-origin="null" m:score="0" m:gross-score="0" m:confirmed="0" m:locked="false" m:level-edited="false" m:created-by="" m:created-at="0" m:modified-by="" m:modified-at="0">
+<source>&lt;li&gt;&lt;a href=&quot;https://www.drupal.org/project/tmgmt_google&quot;&gt;Google translate&lt;/a&gt;&lt;/li&gt;</source>
+<target></target>
+<alt-trans origin="machine-trans">
+<target></target>
+</alt-trans>
+<alt-trans origin="memsource-tm">
+<target></target>
+</alt-trans>
+<m:tunit-metadata/>
+<m:tunit-target-metadata/>
+<m:editing-stats>
+<m:thinking-time>0</m:thinking-time>
+<m:editing-time>0</m:editing-time>
+</m:editing-stats>
+</trans-unit>
+</group>
+<group id="68">
+<context-group>
+<context context-type="x-key">44][body][0][value</context>
+<context context-type="x-key-note">Note: Text (annotates: general)</context>
+</context-group>
+<trans-unit id="x5oH6ODcsAxLacom_dc1:68" m:para-id="1" xml:space="preserve" m:trans-origin="null" m:score="0" m:gross-score="0" m:confirmed="0" m:locked="false" m:level-edited="false" m:created-by="" m:created-at="0" m:modified-by="" m:modified-at="0">
+<source>&lt;li&gt;&lt;a href=&quot;https://www.drupal.org/project/tmgmt_mygengo&quot;&gt;Gengo&lt;/a&gt;&lt;/li&gt;</source>
+<target></target>
+<alt-trans origin="machine-trans">
+<target></target>
+</alt-trans>
+<alt-trans origin="memsource-tm">
+<target></target>
+</alt-trans>
+<m:tunit-metadata/>
+<m:tunit-target-metadata/>
+<m:editing-stats>
+<m:thinking-time>0</m:thinking-time>
+<m:editing-time>0</m:editing-time>
+</m:editing-stats>
+</trans-unit>
+</group>
+<group id="69">
+<context-group>
+<context context-type="x-key">44][body][0][value</context>
+<context context-type="x-key-note">Note: Text (annotates: general)</context>
+</context-group>
+<trans-unit id="x5oH6ODcsAxLacom_dc1:69" m:para-id="1" xml:space="preserve" m:trans-origin="null" m:score="0" m:gross-score="0" m:confirmed="0" m:locked="false" m:level-edited="false" m:created-by="" m:created-at="0" m:modified-by="" m:modified-at="0">
+<source>&lt;li&gt;&lt;a href=&quot;https://www.drupal.org/project/tmgmt_oht&quot;&gt;One Hour Translation&lt;/a&gt;&lt;/li&gt;</source>
+<target></target>
+<alt-trans origin="machine-trans">
+<target></target>
+</alt-trans>
+<alt-trans origin="memsource-tm">
+<target></target>
+</alt-trans>
+<m:tunit-metadata/>
+<m:tunit-target-metadata/>
+<m:editing-stats>
+<m:thinking-time>0</m:thinking-time>
+<m:editing-time>0</m:editing-time>
+</m:editing-stats>
+</trans-unit>
+</group>
+<group id="70">
+<context-group>
+<context context-type="x-key">44][body][0][value</context>
+<context context-type="x-key-note">Note: Text (annotates: general)</context>
+</context-group>
+<trans-unit id="x5oH6ODcsAxLacom_dc1:70" m:para-id="1" xml:space="preserve" m:trans-origin="null" m:score="0" m:gross-score="0" m:confirmed="0" m:locked="false" m:level-edited="false" m:created-by="" m:created-at="0" m:modified-by="" m:modified-at="0">
+<source>&lt;/ul&gt;</source>
+<target></target>
+<alt-trans origin="machine-trans">
+<target></target>
+</alt-trans>
+<alt-trans origin="memsource-tm">
+<target></target>
+</alt-trans>
+<m:tunit-metadata/>
+<m:tunit-target-metadata/>
+<m:editing-stats>
+<m:thinking-time>0</m:thinking-time>
+<m:editing-time>0</m:editing-time>
+</m:editing-stats>
+</trans-unit>
+</group>
+<group id="71">
+<context-group>
+<context context-type="x-key">44][body][0][value</context>
+<context context-type="x-key-note">Note: Text (annotates: general)</context>
+</context-group>
+<trans-unit id="x5oH6ODcsAxLacom_dc1:71" m:para-id="1" xml:space="preserve" m:trans-origin="null" m:score="0" m:gross-score="0" m:confirmed="0" m:locked="false" m:level-edited="false" m:created-by="" m:created-at="0" m:modified-by="" m:modified-at="0">
+<source>&lt;/li&gt;</source>
+<target></target>
+<alt-trans origin="machine-trans">
+<target></target>
+</alt-trans>
+<alt-trans origin="memsource-tm">
+<target></target>
+</alt-trans>
+<m:tunit-metadata/>
+<m:tunit-target-metadata/>
+<m:editing-stats>
+<m:thinking-time>0</m:thinking-time>
+<m:editing-time>0</m:editing-time>
+</m:editing-stats>
+</trans-unit>
+</group>
+<group id="72">
+<context-group>
+<context context-type="x-key">44][body][0][value</context>
+<context context-type="x-key-note">Note: Text (annotates: general)</context>
+</context-group>
+<trans-unit id="x5oH6ODcsAxLacom_dc1:72" m:para-id="1" xml:space="preserve" m:trans-origin="null" m:score="0" m:gross-score="0" m:confirmed="0" m:locked="false" m:level-edited="false" m:created-by="" m:created-at="0" m:modified-by="" m:modified-at="0">
+<source>&lt;/ul&gt;</source>
+<target></target>
+<alt-trans origin="machine-trans">
+<target></target>
+</alt-trans>
+<alt-trans origin="memsource-tm">
+<target></target>
+</alt-trans>
+<m:tunit-metadata/>
+<m:tunit-target-metadata/>
+<m:editing-stats>
+<m:thinking-time>0</m:thinking-time>
+<m:editing-time>0</m:editing-time>
+</m:editing-stats>
+</trans-unit>
+</group>
+</body>
+</file>
+<m:extra>
+<m:users/>
+</m:extra>
+</xliff>

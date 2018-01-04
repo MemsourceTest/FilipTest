@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns:m="http://www.memsource.com/mxlf/2.0" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2" m:version="2.3" m:level="1">
+<file original="JobID_9_JobItemID_45_en_fr.xliff" source-language="en" target-language="fr" datatype="x-undefined" m:task-id="0nMmdAfpU83jCoMI0_dc1">
+<body>
+<group id="0">
+<context-group>
+<context context-type="x-key">45][title][0][value</context>
+</context-group>
+<trans-unit id="0nMmdAfpU83jCoMI0_dc1:0" m:para-id="0" xml:space="preserve" m:trans-origin="null" m:score="0" m:gross-score="0" m:confirmed="1" m:locked="false" m:level-edited="true" m:created-by="3" m:created-at="1501762476086" m:modified-by="3" m:modified-at="1501762507829">
+<source>First page</source>
+<target>French page</target>
+<alt-trans origin="machine-trans">
+<target></target>
+</alt-trans>
+<alt-trans origin="memsource-tm">
+<target></target>
+</alt-trans>
+<m:tunit-metadata/>
+<m:tunit-target-metadata/>
+<m:editing-stats>
+<m:thinking-time>37990</m:thinking-time>
+<m:editing-time>41037</m:editing-time>
+</m:editing-stats>
+</trans-unit>
+</group>
+<group id="1">
+<context-group>
+<context context-type="x-key">45][body][0][value</context>
+<context context-type="x-key-note">Note: Text (annotates: general)</context>
+</context-group>
+<trans-unit id="0nMmdAfpU83jCoMI0_dc1:1" m:para-id="1" xml:space="preserve" m:trans-origin="null" m:score="0" m:gross-score="0" m:confirmed="1" m:locked="false" m:level-edited="true" m:created-by="3" m:created-at="1501762503179" m:modified-by="3" m:modified-at="1501762508480">
+<source>&lt;p&gt;Some page shit.&lt;/p&gt;</source>
+<target>French content.</target>
+<alt-trans origin="machine-trans">
+<target></target>
+</alt-trans>
+<alt-trans origin="memsource-tm">
+<target></target>
+</alt-trans>
+<m:tunit-metadata/>
+<m:tunit-target-metadata/>
+<m:editing-stats>
+<m:thinking-time>1245</m:thinking-time>
+<m:editing-time>6015</m:editing-time>
+</m:editing-stats>
+</trans-unit>
+</group>
+</body>
+</file>
+<m:extra>
+<m:users>
+<m:user id="3" username="admin" fullname="Filip Rachunek"/>
+</m:users>
+</m:extra>
+</xliff>
