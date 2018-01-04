@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns:m="http://www.memsource.com/mxlf/2.0" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2" m:version="2.3" m:level="1">
+<file original="Hello world!.html" source-language="en" target-language="fr" datatype="x-undefined" m:task-id="6mHf1AfpU8zm1Rso1_dc1">
+<body>
+<group id="0">
+<trans-unit id="6mHf1AfpU8zm1Rso1_dc1:0" m:para-id="0" xml:space="preserve" m:trans-origin="null" m:score="0" m:gross-score="0" m:confirmed="0" m:locked="false" m:level-edited="false" m:created-by="" m:created-at="0" m:modified-by="" m:modified-at="0">
+<source>Hello world!</source>
+<target></target>
+<alt-trans origin="machine-trans">
+<target></target>
+</alt-trans>
+<alt-trans origin="memsource-tm">
+<target></target>
+</alt-trans>
+<m:tunit-metadata/>
+<m:tunit-target-metadata/>
+<m:editing-stats>
+<m:thinking-time>0</m:thinking-time>
+<m:editing-time>0</m:editing-time>
+</m:editing-stats>
+</trans-unit>
+</group>
+<group id="1">
+<trans-unit id="6mHf1AfpU8zm1Rso1_dc1:1" m:para-id="1" xml:space="preserve" m:trans-origin="null" m:score="0" m:gross-score="0" m:confirmed="0" m:locked="false" m:level-edited="false" m:created-by="" m:created-at="0" m:modified-by="" m:modified-at="0">
+<source>Welcome to WordPress.</source>
+<target></target>
+<alt-trans origin="machine-trans">
+<target></target>
+</alt-trans>
+<alt-trans origin="memsource-tm">
+<target></target>
+</alt-trans>
+<m:tunit-metadata/>
+<m:tunit-target-metadata/>
+<m:editing-stats>
+<m:thinking-time>0</m:thinking-time>
+<m:editing-time>0</m:editing-time>
+</m:editing-stats>
+</trans-unit>
+</group>
+<group id="2">
+<trans-unit id="6mHf1AfpU8zm1Rso1_dc1:2" m:para-id="1" xml:space="preserve" m:trans-origin="null" m:score="0" m:gross-score="0" m:confirmed="0" m:locked="false" m:level-edited="false" m:created-by="" m:created-at="0" m:modified-by="" m:modified-at="0">
+<source>This is your first post.</source>
+<target></target>
+<alt-trans origin="machine-trans">
+<target></target>
+</alt-trans>
+<alt-trans origin="memsource-tm">
+<target></target>
+</alt-trans>
+<m:tunit-metadata/>
+<m:tunit-target-metadata/>
+<m:editing-stats>
+<m:thinking-time>0</m:thinking-time>
+<m:editing-time>0</m:editing-time>
+</m:editing-stats>
+</trans-unit>
+</group>
+<group id="3">
+<trans-unit id="6mHf1AfpU8zm1Rso1_dc1:3" m:para-id="1" xml:space="preserve" m:trans-origin="null" m:score="0" m:gross-score="0" m:confirmed="0" m:locked="false" m:level-edited="false" m:created-by="" m:created-at="0" m:modified-by="" m:modified-at="0">
+<source>Edit or delete it, then start writing!</source>
+<target></target>
+<alt-trans origin="machine-trans">
+<target></target>
+</alt-trans>
+<alt-trans origin="memsource-tm">
+<target></target>
+</alt-trans>
+<m:tunit-metadata/>
+<m:tunit-target-metadata/>
+<m:editing-stats>
+<m:thinking-time>0</m:thinking-time>
+<m:editing-time>0</m:editing-time>
+</m:editing-stats>
+</trans-unit>
+</group>
+</body>
+</file>
+<m:extra>
+<m:users/>
+</m:extra>
+</xliff>

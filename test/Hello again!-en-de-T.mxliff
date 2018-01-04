@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns:m="http://www.memsource.com/mxlf/2.0" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2" m:version="2.3" m:level="1">
+<file original="Hello again!.html" source-language="en" target-language="de" datatype="x-undefined" m:task-id="ejjj5dkvqFw5ze7m_dc1">
+<body>
+<group id="0">
+<trans-unit id="ejjj5dkvqFw5ze7m_dc1:0" m:para-id="0" xml:space="preserve" m:trans-origin="mt" m:score="0" m:gross-score="0" m:confirmed="1" m:locked="false" m:level-edited="true" m:created-by="3" m:created-at="1483973616410" m:modified-by="3" m:modified-at="1483973620835">
+<source>Hello again!</source>
+<target>Hallo nochmal!</target>
+<alt-trans origin="machine-trans">
+<target>Hallo nochmal!</target>
+</alt-trans>
+<alt-trans origin="memsource-tm">
+<target></target>
+</alt-trans>
+<m:tunit-metadata/>
+<m:tunit-target-metadata/>
+<m:editing-stats>
+<m:thinking-time>32267</m:thinking-time>
+<m:editing-time>32267</m:editing-time>
+</m:editing-stats>
+</trans-unit>
+</group>
+<group id="1">
+<trans-unit id="ejjj5dkvqFw5ze7m_dc1:1" m:para-id="1" xml:space="preserve" m:trans-origin="mt" m:score="0" m:gross-score="0" m:confirmed="1" m:locked="false" m:level-edited="true" m:created-by="3" m:created-at="1483973619619" m:modified-by="3" m:modified-at="1483973621425">
+<source>Let's see how the project will look like.</source>
+<target>Mal sehen, wie das Projekt aussehen wird.</target>
+<alt-trans origin="machine-trans">
+<target>Mal sehen, wie das Projekt aussehen wird.</target>
+</alt-trans>
+<alt-trans origin="memsource-tm">
+<target></target>
+</alt-trans>
+<m:tunit-metadata/>
+<m:tunit-target-metadata/>
+<m:editing-stats>
+<m:thinking-time>3387</m:thinking-time>
+<m:editing-time>3387</m:editing-time>
+</m:editing-stats>
+</trans-unit>
+</group>
+</body>
+</file>
+<m:extra>
+<m:users>
+<m:user id="3" username="admin" fullname="Filip Rachunek"/>
+</m:users>
+</m:extra>
+</xliff>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns:m="http://www.memsource.com/mxlf/2.0" xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2" m:version="2.3" m:level="1">
+<file original="Hello world!.html" source-language="en" target-language="fr" datatype="x-undefined" m:task-id="8CMfhuAcsANMQI8m_dc1">
+<body>
+<group id="0">
+<trans-unit id="8CMfhuAcsANMQI8m_dc1:0" m:para-id="0" xml:space="preserve" m:trans-origin="mt" m:score="0" m:gross-score="0" m:confirmed="1" m:locked="false" m:level-edited="true" m:created-by="3" m:created-at="1485519012066" m:modified-by="3" m:modified-at="1485519013816">
+<source>Hello world!</source>
+<target>Salut tout le monde !</target>
+<alt-trans origin="machine-trans">
+<target>Salut tout le monde !</target>
+</alt-trans>
+<alt-trans origin="memsource-tm">
+<target></target>
+</alt-trans>
+<m:tunit-metadata/>
+<m:tunit-target-metadata/>
+<m:editing-stats>
+<m:thinking-time>75691</m:thinking-time>
+<m:editing-time>75691</m:editing-time>
+</m:editing-stats>
+</trans-unit>
+</group>
+<group id="1">
+<trans-unit id="8CMfhuAcsANMQI8m_dc1:1" m:para-id="1" xml:space="preserve" m:trans-origin="mt" m:score="0" m:gross-score="0" m:confirmed="1" m:locked="false" m:level-edited="true" m:created-by="3" m:created-at="1485519013837" m:modified-by="3" m:modified-at="1485519014754">
+<source>Welcome to WordPress.</source>
+<target>Bienvenue sur WordPress.</target>
+<alt-trans origin="machine-trans">
+<target>Bienvenue sur WordPress.</target>
+</alt-trans>
+<alt-trans origin="memsource-tm">
+<target></target>
+</alt-trans>
+<m:tunit-metadata/>
+<m:tunit-target-metadata/>
+<m:editing-stats>
+<m:thinking-time>944</m:thinking-time>
+<m:editing-time>944</m:editing-time>
+</m:editing-stats>
+</trans-unit>
+</group>
+<group id="2">
+<trans-unit id="8CMfhuAcsANMQI8m_dc1:2" m:para-id="1" xml:space="preserve" m:trans-origin="mt" m:score="0" m:gross-score="0" m:confirmed="1" m:locked="false" m:level-edited="true" m:created-by="3" m:created-at="1485519014785" m:modified-by="3" m:modified-at="1485519015462">
+<source>This is your first post.</source>
+<target>Il s’agit de votre premier message.</target>
+<alt-trans origin="machine-trans">
+<target>Il s’agit de votre premier message.</target>
+</alt-trans>
+<alt-trans origin="memsource-tm">
+<target></target>
+</alt-trans>
+<m:tunit-metadata/>
+<m:tunit-target-metadata/>
+<m:editing-stats>
+<m:thinking-time>702</m:thinking-time>
+<m:editing-time>702</m:editing-time>
+</m:editing-stats>
+</trans-unit>
+</group>
+<group id="3">
+<trans-unit id="8CMfhuAcsANMQI8m_dc1:3" m:para-id="1" xml:space="preserve" m:trans-origin="mt" m:score="0" m:gross-score="0" m:confirmed="1" m:locked="false" m:level-edited="true" m:created-by="3" m:created-at="1485519015484" m:modified-by="3" m:modified-at="1485519016223">
+<source>Edit or delete it, then start writing!</source>
+<target>Modifier ou supprimer, puis commencez à écrire !</target>
+<alt-trans origin="machine-trans">
+<target>Modifier ou supprimer, puis commencez à écrire !</target>
+</alt-trans>
+<alt-trans origin="memsource-tm">
+<target></target>
+</alt-trans>
+<m:tunit-metadata/>
+<m:tunit-target-metadata/>
+<m:editing-stats>
+<m:thinking-time>759</m:thinking-time>
+<m:editing-time>759</m:editing-time>
+</m:editing-stats>
+</trans-unit>
+</group>
+</body>
+</file>
+<m:extra>
+<m:users>
+<m:user id="3" username="admin" fullname="Filip Rachunek"/>
+</m:users>
+</m:extra>
+</xliff>
