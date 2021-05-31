@@ -1,0 +1,3 @@
+Support MultilingualPress – another multilingual plugin for WordPress.
+Improve parsing of nested shortcodes.
+Increase required PHP version to 7.0.
