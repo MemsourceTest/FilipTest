@@ -1,0 +1,1 @@
+The script explains what it will do and then pauses before it does it. There are more installation options here (needed on 10.5).
