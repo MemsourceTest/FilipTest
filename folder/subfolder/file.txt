@@ -1,1 +1,2 @@
 This is another text in a subfolder.
+Another line.
