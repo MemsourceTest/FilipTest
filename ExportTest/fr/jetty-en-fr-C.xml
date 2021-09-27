@@ -1,0 +1,153 @@
+<?xml version='1.0' encoding='UTF-8'?><!DOCTYPE Configure PUBLIC "-//Mort Bay Consulting//DTD Configure//EN" "http://jetty.mortbay.org/configure.dtd">
+
+<!-- =============================================================== -->
+<!-- Configure the Jetty Server                                      -->
+<!--                                                                 -->
+<!-- Documentation of this file format can be found at:              -->
+<!-- http://docs.codehaus.org/display/JETTY/jetty.xml                -->
+<!--                                                                 -->
+<!-- =============================================================== -->
+
+
+<Configure id="Server" class="org.mortbay.jetty.Server">
+
+    
+    <Set name="ThreadPool">
+      
+      <New class="org.mortbay.thread.BoundedThreadPool">
+        <Set name="minThreads"></Set>
+        <Set name="maxThreads"></Set>
+        <Set name="lowThreads"></Set>
+      </New>
+
+      
+    </Set>
+
+
+
+        
+    <Call name="addConnector">
+      <Arg>
+          <New class="org.mortbay.jetty.nio.SelectChannelConnector">
+            <Set name="host"><SystemProperty name="jetty.host" /></Set>
+            <Set name="port"><SystemProperty name="jetty.port" default="8080"/></Set>
+            <Set name="maxIdleTime"></Set>
+            <Set name="Acceptors"></Set>
+            <Set name="statsOn"></Set>
+            <Set name="confidentialPort"></Set>
+	    <Set name="lowResourcesConnections"></Set>
+	    <Set name="lowResourcesMaxIdleTime"></Set>
+          </New>
+      </Arg>
+    </Call>
+
+    
+    <Set name="handler">
+      <New id="Handlers" class="org.mortbay.jetty.handler.HandlerCollection">
+        <Set name="handlers">
+         <Array type="org.mortbay.jetty.Handler">
+           <Item>
+             <New id="Contexts" class="org.mortbay.jetty.handler.ContextHandlerCollection"/>
+           </Item>
+           <Item>
+             <New id="DefaultHandler" class="org.mortbay.jetty.handler.DefaultHandler"/>
+           </Item>
+           <Item>
+             <New id="RequestLog" class="org.mortbay.jetty.handler.RequestLogHandler"/>
+           </Item>
+         </Array>
+        </Set>
+      </New>
+    </Set>
+    
+    
+    <Call name="addLifeCycle">
+      <Arg>
+        <New class="org.mortbay.jetty.deployer.ContextDeployer">
+          <Set name="contexts"><Ref id="Contexts"/></Set>
+          <Set name="configurationDir"><SystemProperty name="jetty.home" default="."/></Set>
+          <Set name="scanInterval"></Set>
+        </New>
+      </Arg>
+    </Call>
+
+    
+    <Call name="addLifeCycle">
+      <Arg>
+        <New class="org.mortbay.jetty.deployer.WebAppDeployer">
+          <Set name="contexts"><Ref id="Contexts"/></Set>
+          <Set name="webAppDir"><SystemProperty name="jetty.home" default="."/></Set>
+	  <Set name="parentLoaderPriority"></Set>
+	  <Set name="extract"></Set>
+	  <Set name="allowDuplicates"></Set>
+          <Set name="defaultsDescriptor"><SystemProperty name="jetty.home" default="."/></Set>
+        </New>
+      </Arg>
+    </Call>
+
+    <New class="org.mortbay.jetty.webapp.WebAppContext">
+      <Arg><Ref id="Contexts"/></Arg>
+      <Arg></Arg>
+      <Arg></Arg>
+      <Set name="defaultsDescriptor"><SystemProperty name="jetty.home" default="."/></Set>
+    </New>
+    <New class="org.mortbay.jetty.webapp.WebAppContext">
+      <Arg><Ref id="Contexts"/></Arg>
+      <Arg></Arg>
+      <Arg></Arg>
+      <Set name="defaultsDescriptor"><SystemProperty name="jetty.home" default="."/></Set>
+    </New>
+    <New class="org.mortbay.jetty.webapp.WebAppContext">
+      <Arg><Ref id="Contexts"/></Arg>
+      <Arg></Arg>
+      <Arg></Arg>
+      <Set name="defaultsDescriptor"><SystemProperty name="jetty.home" default="."/></Set>
+    </New>
+    <New class="org.mortbay.jetty.webapp.WebAppContext">
+      <Arg><Ref id="Contexts"/></Arg>
+      <Arg></Arg>
+      <Arg></Arg>
+      <Set name="defaultsDescriptor"><SystemProperty name="jetty.home" default="."/></Set>
+    </New>
+    <New class="org.mortbay.jetty.webapp.WebAppContext">
+      <Arg><Ref id="Contexts"/></Arg>
+      <Arg></Arg>
+      <Arg></Arg>
+      <Set name="defaultsDescriptor"><SystemProperty name="jetty.home" default="."/></Set>
+    </New>
+
+    
+    <Set name="UserRealms">
+      <Array type="org.mortbay.jetty.security.UserRealm">
+        <Item>
+          <New class="org.mortbay.jetty.security.HashUserRealm">
+            <Set name="name"></Set>
+            <Set name="config"><SystemProperty name="jetty.home" default="."/></Set>
+            <Set name="refreshInterval"></Set>
+          </New>
+        </Item>
+      </Array>
+    </Set>
+
+    
+    <Ref id="RequestLog">
+      <Set name="requestLog">
+        <New id="RequestLogImpl" class="org.mortbay.jetty.NCSARequestLog">
+          <Set name="filename"><SystemProperty name="jetty.logs" default="./logs"/></Set>
+          <Set name="filenameDateFormat"></Set>
+          <Set name="retainDays"></Set>
+          <Set name="append"></Set>
+          <Set name="extended"></Set>
+          <Set name="logCookies"></Set>
+          <Set name="LogTimeZone"></Set>
+        </New>
+      </Set>
+    </Ref>
+
+    
+    <Set name="stopAtShutdown"></Set>
+    <Set name="sendServerVersion"></Set>
+    <Set name="sendDateHeader"></Set>
+    <Set name="gracefulShutdown"></Set>
+
+</Configure>
